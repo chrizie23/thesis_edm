@@ -113,24 +113,32 @@ IDSemData[["SemInfo"]]<-rbind(IDSemData$SemInfo, tmpdf)
 #check if the dummyID appears in each semester
 #not working :(
 
-i<-1
 
-while(i<length(filelist)){
+
+for (i in 1:length(filelist)){
   tempdf <- data.frame(sem=filelist[i],data=datalist[[i]][i,])
-  sample[[data_sample]] <- rbind(sample$data_sample, tempdf) 
   IDSemData_sample<-data.frame(ID=datalist[[i]]$DUMMY.ID[i])
-  IDSemData_sample[["SemInfo"]]<-rbind(IDSemData_sample$SemInfo, tmpdf)
+  sample[["data_sample"]] <- rbind(sample[["data_sample"]], tempdf) 
+  #IDSemData_sample[["SemInfo"]]<-rbind(IDSemData_sample[["SemInfo"]], data.frame(sem=filelist[i+1],data=datalist[[i]][i,]))
 }
 
 
 #nested for loop to add student information
 #and check if student appears in each semester
 for(var in testlist){
-  while(i<length(filelist))
+  for(i in 1:length(filelist))
     tmpdf <- data.frame(sem=filelist[i])
 }
   
   
+
+
+
+
+
+
+
+
 #adding more columns
 #not yet working
 #IDSemData[["SemInfo"]]<-rbind(IDSemData[["SemInfo"]], data.frame(Sem=filelist[2], data=datalist[[1]][1,]))
