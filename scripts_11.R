@@ -1,26 +1,30 @@
 #to read csv file
-#inside the parenthesis, write the location of the csv file including the filename
+#inside the parenthesis, write the complete path of the csv file including the filename
+#change setwd as the working directory where the csv files are
 
-all.vu.grads.run <- read.csv("all vu grads run.csv")
+setwd("~/GitHub/thesis/")
+
+VUGrads <- read.csv("all vu grads run.csv")
 
 #to view the file
-View(all.vu.grads.run)
+View(VUGrads)
 
 #to convert to date format
-variable_Dates  <- list('VUGrads$Acad.Commencement.Date', 'VUGrads$Acad.Degree.Date', 
-                        'VUGrads$Acad.End.Date', 'VUGrads$X.Acad.Degree.Date.Fmt',
-                        'VUGrads$X.Acad.End.Date.Fmt', 'VUGrads$X.Acad.Start.Date')
+variable_Dates  <- list('Acad.Commencement.Date', 'Acad.Degree.Date', 
+                        'Acad.End.Date', 'X.Acad.Degree.Date.Fmt',
+                        'X.Acad.End.Date.Fmt', 'X.Acad.Start.Date')
 
 variable_Dates
 
 #for loop to covert all variable dates in to date format
+#cannot change dates in dates again since were in date format already
 for (datename in variable_Dates){
   VUGrads[[datename]] <- as.Date(VUGrads[datename], format= "%m/%d/%y")}
 
 
 #to check if columns were transformed into Date format
 #return TRUE for columns with Date format
-sapply(all.vu.grads.run, function(x) !all(is.na(as.Date(as.character(x),format="%d/%m/%Y"))))
+sapply(VUGrads, function(x) !all(is.na(as.Date(as.character(x),format="%d/%m/%Y"))))
 
 
 #taking grad students only
@@ -36,7 +40,7 @@ filelist <- list('S110','S210','FA10', 'SP11', 'S111', 'S211', 'FA11', 'SP12', '
 newdf<-list()
 for (dataname in filelist){
   newname<-paste0("~/CEN",dataname," (scrubbed)_modified.csv")
-  tmp<-as.data.frame(read_csv(newname))
+  tmp<-as.data.frame(read.csv(newname))
   assign(dataname, tmp)
 }
 
@@ -121,22 +125,6 @@ for (i in 1:length(filelist)){
   sample[["data_sample"]] <- rbind(sample[["data_sample"]], tempdf) 
   #IDSemData_sample[["SemInfo"]]<-rbind(IDSemData_sample[["SemInfo"]], data.frame(sem=filelist[i+1],data=datalist[[i]][i,]))
 }
-
-
-#nested for loop to add student information
-#and check if student appears in each semester
-for(var in testlist){
-  for(i in 1:length(filelist))
-    tmpdf <- data.frame(sem=filelist[i])
-}
-  
-  
-
-
-
-
-
-
 
 
 #adding more columns

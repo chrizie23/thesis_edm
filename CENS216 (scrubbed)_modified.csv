@@ -1,0 +1,686 @@
+DUMMY ID,Age,Gender,Home State,Reported Race/Ethnicity,Alien Status,Immigration Status,Citizenship,Ethnics,Races,Denomination,Marital Status,Legacy,Disability,Disability Start,Residency Status,Prog Term1,Prog Term2,Prog Term3,Prog Term4,Prog Term5,Acad Level1,Acad Level2,Acad Level3,Class1,Class2,Start Term1,Start Term2,Admit Status,U Active Reg Cred,G Active Reg Cred,L Active Reg Cred,Tot Active Reg Cred,FT/PT,FTE,U GPA,G GPA,L GPA,U TermGPA,G TermGPA,L TermGPA,Active Prog1,Active Prog2,Active Prog3,Curr Status1,Curr Status2,Curr Status3,Curr Status4,Curr Status5,Major1,Major2,Major3,Major4,Major5,Minor1,Minor2,Minor3,Minor4,Minor5,School1,Cum Cmp Tot,Cum Cmp Tot Grad,Cum Cmp Tot Law,Cum Cmp Tot Und,Fed Cohort,CC Status,Current Type,Athlete,Active Sport1,Active Sport2,Active Sport3,Active Sport4,Military Codes,Veteran Codes,First Generation,XPSD Prev Prog
+10829,38,M,IN,White,,,,NHS,W,Assembly of God,S,,,,C,2016S2R,,,,,G,,,GR,,2014S1R,,PT,,3,,3,PT,0.333333333,3.787,4,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,182,33,,149,,N,GR,N,,,,,,,,B.MBA.BUS
+12339,30,F,IN,White,,,,NHS,W,None,S,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,,,3,,3,PT,0.333333333,3.27,4,,,0,,A.G.ND,,,R,,,,,ND,,,,,,,,,,CAS,132,6,,126,,N,,N,,,,,,,,
+13160,34,F,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2015SB1,,PT,,3,,3,PT,0.333333333,,3.967,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,27,27,,,,N,GR,N,,,,,,,,B.MBA.BUS
+28655,51,F,IN,White,,,,NHS,W,Roman Catholic,M,,,,C,2016S2R,,,,,U,,,SR,,1982F,,RE,3,,,3,PT,0.25,2.829,,,0,,,N.BSN.RNSPEC,,,R,,,,,NURS,,,,,,,,,,CON,140.5,,,140.5,,N,,N,,,,,,,,
+36457,44,F,IN,White,,,,NHS,W,Nazarene,S,,,,C,2016S2R,,,,,G,,,GR,,2014FB2,,PT,,3,,3,PT,0.333333333,2.646,3.63,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,69,30,,39,,N,GR,N,,,,,,,,B.MBA.BUS
+38573,44,M,IN,Asian,,,,NHS,A,Roman Catholic,S,,,,C,2016S2R,,,,,G,,,GR,,2014FB1,,PT,,3,,3,PT,0.333333333,,3.936,2.539,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,123,33,90,,,N,GR,N,,,,,,,,B.MBA.BUS
+39083,33,F,IN,White,,,,NHS,W,Roman Catholic,S,,,,C,2016S2R,,,,,U,,,SR,,2001FA,,FT,7,,,7,PT,0.583333333,3.291,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,173,,,173,2001,N,ACN,N,,,,,,,N,
+39727,55,F,IN,White,,,,NHS,W,Evangelical,M,,,,C,2016S2R,,,,,G,,,GR,,2006FA,,FT,,3,,3,PT,0.333333333,3.805,3.865,,,0,,A.G.ND,,,R,,,,,ND,,,,,,,,,,CAS,175,51,,124,,N,GR,N,,,,,,,,A.G.ND
+39985,30,F,IN,White,,,,NHS,W,Methodist,M,,,,C,2016S2R,,,,,G,,,GR,,2011FA,,FT,,3,,3,PT,0.333333333,3.596,4,,,0,,A.MALS.IND,,,R,,,,,IND,,,,,,,,,,CAS,148,19,,129,,N,GR,N,,,,,,,,A.MALS.IND
+40217,22,F,IN,White,,,,NHS,W,Roman Catholic,S,FA*CE,,,R,2016S2R,,,,,U,,,SR,,2012FA,,FT,8,,,8,PT,0.666666667,3.004,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,PSY,,,,,CON,129,,,129,2012,N,,N,,,,,,,,N.BSN.NURS
+40704,31,F,IL,White,,,,NHS,W,Lutheran - ELCA,,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,,,3,,3,PT,0.333333333,2.925,3.651,,,0,,N.DNP.APN,,,R,,,,,APN,,,,,,,,,,CON,256,46,,210,,N,ACN,N,,,,,,,,N.DNP.APN
+40877,31,M,IN,White,,,,NHS,W,Prefer not to answer,S,,,,C,2016S2R,,,,,G,,,GR,,2015S2R,,PT,,3,,3,PT,0.333333333,4,3.667,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,21,18,,3,,N,GR,N,,,,,,,,B.MBA.BUS
+57787,31,M,IN,Two or More Races,,,,NHS,W*I,Lutheran - Others/Unknown,S,,,,R,2016S2R,,,,,G,,,GR,,2016SS,,,3,,,3,PT,0.25,0,0,,0,,,A.MS.AMOD,,,R,,,,,AMOD,,,,,,,,,,CAS,0,0,,0,,N,GR,N,,,,,,,,
+42106,30,M,MO,Hispanic or Latino,,,,HM*HIS,W,Lutheran - Missouri Synod,S,,,,O,2016S2R,,,,,G,,,GR,,2015FA,,FT,,6,,6,PT,0.666666667,2.447,3.953,,,0,,A.MA.ESC,,,R,,,,,ESC,,,,,,,,,,CAS,143,19,,124,,N,GR,N,,,,,,,,A.MA.ESC
+43237,22,M,IN,White,,,,NHS,W,Assembly of God,,,,,R,2016S2R,,,,,U,,,JR,,2016SP,,TR,7,,,7,PT,0.583333333,3.133,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,83,,,83,,N,ACN,N,,,,,,,Y,
+43345,21,F,MI,White,,,,NHS,W,Evangelical,,FA,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,4,,,4,PT,0.333333333,3.305,,,0,,,A.BSPE.PESM,,,R,,,,,PESM,,,,,FUNB,,,,,CAS,102,,,102,,N,,Y,NWBB,,,,,,,A.BSPE.PESM
+43452,49,F,IN,White,,,,NHS,W,,M,,,,C,2016S2R,,,,,G,,,GR,,2009FA,,PT,,3,,3,PT,0.333333333,0,3.867,,,0,,A.MALS.IND,,,R,,,,,IND,,,,,,,,,,CAS,30,30,,0,,N,GR,N,,,,,,,,A.MALS.IND
+43666,47,F,IN,White,,,,NHS,W,Roman Catholic,S,,,,C,2016S2R,,,,,G,,,GR,,2008FA,,PT,,3,,3,PT,0.333333333,3.3,0,,,0,,N.MSN.NED,,,R,,,,,NED,,,,,,,,,,CON,179,0,,179,,N,GR,N,,,,,,,,N.MSN.APN
+44010,53,F,IN,White,,,,NHS,W,Roman Catholic,M,,,,C,2016S2R,,,,,U,,,SR,,2013FA,,CA,8,,,8,PT,0.666666667,3.923,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,233,,,233,,N,ACN,N,,,,,,,,N.BSN.NURS
+44108,28,F,IL,White,,,,NHS,W,Lutheran - Missouri Synod,S,,,,O,2016B32,,,,,G,,,GR,,2016B21,,,,3,,3,PT,0.333333333,2.953,4,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,134,6,,128,,N,BSK,N,,,,,,,,
+44424,27,M,IN,Black or African American,,,,NHS,B,Baptist,M,E,,,C,2016S2R,,,,,U,,,SR,,2012FA,,TR,6,,,6,PT,0.5,3.27,,,0,,,A.BA.SOCC,,,R,,,,,SOCC,,,,,,,,,,CAS,91,,,91,,N,,N,,,,,,,,A.BA.SOCC
+44446,28,M,IN,White,,,,NHS,W,Lutheran - Missouri Synod,S,PA,,,N,2016S2R,,,,,U,,,SR,,2006FA,,FT,3,,,3,PT,0.25,2.77,,,0,,,E.BSME.ME,,,R,,,,,ME,,,,,,,,,,COE,141.5,,,141.5,2006,N,,N,,,,,,,,E.U.ENGR
+45044,24,M,IN,White,,,,NHS,W,Lutheran - ELCA,S,FA,,,O,2016S2R,,,,,G,,,GR,,2016SP,,PT,,3,,3,PT,0.333333333,3.471,4,,,0,,A.MS.DM,,,R,,,,,DM,,,,,,,,,,CAS,147.5,9,,138.5,,N,GR,N,,,,,,,,
+45494,50,M,IN,Unreported,,,,,,,M,,,,C,2016S2R,,,,,U,,,SP,,2011FA,,PT,3,,,3,PT,0.25,2,,,0,,,U.CASC,,,R,,,,,ND,,,,,,,,,,CAS,6,,,6,,N,CA,N,,,,,,,,
+45513,28,F,IL,White,,,,NHS,W,Non-Denomination Christian,S,,,,C,2016S2R,,,,,U,,,SR,,2006FA,,FT,7,,,7,PT,0.583333333,3.969,4,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,188,44,,144,2006,N,ACN,N,,,,,,,,
+45586,28,F,IN,White,,,,NHS,W,Roman Catholic,M,,,,C,2016S2R,,,,,G,,,GR,,2013FA,,FT,,3,,3,PT,0.333333333,3.795,3.914,,,0,,A.MS.DM,,,R,,,,,DM,,,,,,,,,,CAS,146,21,,125,,N,GR,N,,,,,,,,A.MS.DM
+45621,19,F,IN,Black or African American,,,ZI,U*NHS,U*B,Orthodox,S,,,,C,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,2.668,,,0,,,A.BA.POLS,,,R,,,,,POLS,,,,,,,,,,CAS,28,,,28,,N,,N,,,,,,,N,A.BA.POLS
+45770,27,F,IN,White,,,,NHS,W,Lutheran - Missouri Synod,S,,,,C,2016S2R,,,,,G,,,GR,,2014FB1,,PT,,3,,3,PT,0.333333333,3.604,3.918,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,157,33,,124,,N,GR,N,,,,,,,,B.MBA.BUS
+45781,49,F,IN,White,,,,NHS,W,Roman Catholic,M,,,,C,2016S2R,,,,,U,,,SO,,2009FA,,CA,6,,,6,PT,0.5,3.719,,,0,,,A.AA.CMEX,,,R,,,,,CMEX,,,,,,,,,,CAS,53,,,53,,N,CA,N,,,,,,,,A.AA.CMEX
+45854,25,M,IN,White,,,,NHS,W,Lutheran - Missouri Synod,,,ALLM*ALLE,NONE*NONE,C,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,3.399,,,0,,,A.BA.COMDM,,,R,,,,,COMDM,,,,,,,,,,CAS,113,,,113,,N,,N,,,,,,,N,A.BA.COMDM
+45885,23,F,IN,White,,,,NHS,W,Lutheran - Others/Unknown,S,PA*CE,,,C,2016S2R,,,,,G,,,GR,,2014FA,,FT,,3,,3,PT,0.333333333,3.311,3.838,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,148.5,24,,124.5,,N,GEE,N,,,,,,,,A.MA.CMHC
+46027,22,M,IN,White,,,,NHS,W,Lutheran - ELCA,,FA,,,C,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,2.265,,,0,,,B.BSBA.MGT,,,R,,,,,MGT,,,,,,,,,,CBA,101.5,,,101.5,,N,,N,,,,,,,Y,B.BSBA.MGT
+46113,25,M,IN,Black or African American,,,,NHS,B,,S,,,,,2016S2R,,,,,G,,,GR,,2015FB1,,,,3,,3,PT,0.333333333,,3.233,2.939,,0,,B.MBA.JD.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,69,9,60,,,N,DDG,N,,,,,,,,B.MBA.JD.BUS*L.JD.LAW.MBA
+46320,42,F,IN,White,,,,NHS,W,None,,,,,C,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,3.485,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,159,,,159,,N,,N,,,,,,,Y,N.BSN.NURS
+46430,24,F,IL,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.241,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,203,,,203,,N,ACN,N,,,,,,,N,N.BSN.NURS
+46638,26,F,IN,White,,,,NHS,W,None,S,,,,C,2016S2R,,,,,G,,,GR,,2013FB1,,PT,,3,,3,PT,0.333333333,,3.543,2.801,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,123,21,102,,,N,GR,N,,,,,,,,B.MBA.BUS
+46803,19,F,IN,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,4,,,4,PT,0.333333333,2.603,,,0,,,A.BA.EXPL,,,R,,,,,EXPL,,,,,,,,,,CAS,53,,,53,,N,,N,,,,,,,Y,A.BA.EXPL
+46931,22,F,IL,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,R,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,3.375,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,136,,,136,,N,,N,,,,,,,N,N.BSN.NURS
+46934,26,F,TX,White,,,,NHS,W,Other Christian,S,,,,O,2016S2R,,,,,U,,,SR,,2008FA,,FT,8,,,8,PT,0.666666667,3.373,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,193,,,193,2008,N,ACN,N,,,,,,,,N.BSN.NURS
+46981,19,F,IN,Hispanic or Latino,,,,HIS,U,Roman Catholic,,,AST,NONE,C,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,3.209,,,0,,,A.BSED.ED,,,R,,,,,ELED,,,,,,,,,,CAS,37,,,37,,N,,N,,,,,,,N,A.BA.ART
+47397,23,M,IN,Two or More Races,,,,NHS,B*I*W,Non-Denomination Christian,S,,,,R,2016S2R,,,,,U,,,SR,,2011FA,,FT,3,,,3,PT,0.25,2.565,,,0,,,A.BA.MUS,,,R,,,,,MUS,,,,,FUNB,,,,,CAS,95,,,95,2011,N,,N,,,,,R,A,,A.BM.MUCO
+47586,22,F,IN,White,,,,NHS,W,Lutheran - ELCA,,,,,C,2016S2R,,,,,U,,,SR,,2014FA,,TR,6,,,6,PT,0.5,2.896,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,124,,,124,,N,,N,,,,,,,Y,N.BSN.NURS
+47684,24,F,IN,Two or More Races,,,,NHS,B*W,Lutheran - ELCA,,FA,,,C,2016S2R,,,,,U,,,SR,,2008SS,,PT,8,,,8,PT,0.666666667,3.498,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,201,,,201,,N,ACN,N,,,,,,,N,N.BSN.NURS
+47733,20,F,IN,White,,,,NHS,W,Other,,CE*FA,,,C,2016S2R,,,,,U,,,JR,,2013FA,,FT,3,,,3,PT,0.25,2.486,,,0,,,A.BA.COMM,,,R,,,,,COMM,,,,,,,,,,CAS,83,,,83,,N,,N,,,,,,,,A.BA.COMM
+57940,22,F,IN,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,C,2016S2R,2016S2R,,,,G,G,,GR,,2016SS,,,,3,,3,,,,0,,,0,,A.MHA.HADM,,,R,R,,,,HADM,,,,,,,,,,CON,0,0,,,,N,GR,N,,,,,,,,
+57792,22,F,IN,Hispanic or Latino,,,,HIS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,133.2,,,133.2,,N,ACN,N,,,,,,,N,
+47858,20,M,IN,Hispanic or Latino,,,,HIS,W,Roman Catholic,,CE,,,N,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,2.688,,,0,,,B.BSBA.MKT,,,R,,,,,MKT,,,,,SPAN,,,,,CBA,60,,,60,,N,,N,,,,,,,N,B.BSBA.MKT
+47891,39,M,IN,White,,,,NHS,W,Assembly of God,,,,,C,2016S2R,,,,,G,,,GR,,2014S2R,,PT,,1,,1,PT,0.111111111,,3.726,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,35,35,,,,N,,N,,,,,,,,B.MBA.BUS
+47935,36,F,IN,White,,,,NHS,W,Non-Denomination Christian,D,,,,C,2016S2R,,,,,U,,,SR,,2015SP,,TR,8,,,8,PT,0.666666667,3.197,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,119,,,119,,N,ACN,N,,,,,,,Y,N.BSN.NURS
+48028,23,M,IN,Asian,,,,NHS,A,Buddhist,,FA,,,O,2016B32,,,,,G,,,GR,,2015B11,,,,6,,6,PT,0.666666667,,4,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,12,12,,,,N,BSK,N,,,,,,,,A.MS.HMP
+48288,23,M,IN,White,,,,NHS,W,Other Christian,S,CE,,,C,2016S2R,,,,,U,,,JR,,2011FA,,FT,3,,,3,PT,0.25,2.068,,,0,,,A.BA.COMM,,,R,,,,,COMM,,,,,,,,,,CAS,67,,,67,2011,N,,N,,,,,,,,
+48411,54,F,IN,White,,,,NHS,W,Other Christian,M,,,,C,2016S2R,,,,,U,,,SP,,2011SP,,PT,3,,,3,PT,0.25,2,,,0,,,U.CASC,,,R,,,,,ND,,,,,,,,,,CAS,3,,,3,,N,CA,N,,,,,,,,
+48545,38,M,IN,White,,,,NHS,W,Lutheran - ELCA,,,,,C,2016S2R,,,,,G,,,GR,,2014S2R,,PT,,3,,3,PT,0.333333333,,3.947,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,17,17,,,,N,GR,N,,,,,,,,B.MBA.BUS
+57941,18,F,IL,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,2016S2R,,,,U,U,,FR,FR,2016SS,2016SS,FT,6,,,6,,,0,,,0,,,B.BSBA.MKT.FIN,,,R,R,,,,MKT,,,,,,,,,,CBA,0,,,0,,N,,Y,NWBB,,,,,,N,
+49089,22,M,IN,White,,,,NHS,W,,,,,,R,2016S2R,,,,,U,,,JR,,2013FA,,FT,4,,,4,PT,0.333333333,2.094,,,0,,,A.BSPE.PESM,,,R,,,,,PESM,,,,,BUAD,,,,,CAS,80,,,80,,N,,N,,,,,,,,A.BSPE.PESM
+49149,20,F,IN,White,,,,NHS,W,Lutheran - ELCA,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.427,,,0,,,A.BSED.ED,,,R,,,,,ELED,,,,,SPED,,,,,CAS,68,,,68,,N,,N,,,,,,,N,A.BSED.ED
+49150,19,F,IN,White,,,,NHS,W,Lutheran - ELCA,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,3.026,,,0,,,A.BSED.ED,,,R,,,,,ELED,SPAN,,,,,,,,,CAS,39,,,39,,N,,N,,,,,,,N,A.BSED.ED
+49230,20,F,FL,White,,,,NHS,W,Lutheran - Others/Unknown,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,1,,,1,PT,0.083333333,3.885,,,0,,,A.BA.MUS,,,R,,,,,MUS,,,,,THEO,,,,,CAS,42,,,42,,Y,,N,,,,,,,N,A.BA.EXPL*A.BA.MUS
+49398,21,F,IN,White,,,,NHS,W,Non-Denomination Christian,,CE,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.12,,,0,,,A.BSW.SOCW,,,R,,,,,SOCW,PSY,,,,,,,,,CAS,117,,,117,,N,,N,,,,,,,,A.BSW.SOCW
+49427,24,F,IN,White,,,,NHS,W,Non-Denomination Christian,S,PA,,,R,2016S2R,,,,,U,,,SR,,2010FA,,FT,7,,,7,PT,0.583333333,3.139,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,156.5,,,156.5,2010,N,,N,,,,,,,N,
+49463,24,M,IN,White,,,,NHS,W,Roman Catholic,S,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,PT,,3,,3,PT,0.333333333,,4,,,0,,A.MS.DM,,,R,,,,,DM,,,,,,,,,,CAS,6,6,,,,N,GR,N,,,,,,,,
+49471,25,M,,Non-resident Alien,Y,Student Visa,FR,NHS,W,Roman Catholic,,,,,O,2016S2R,,,,,G,,,GR,,2015FB1,,FT,,6,,6,PT,0.666666667,1.871,3.93,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,37,30,,7,,N,GR,N,,,,,,,,B.MBA.BUS
+49564,24,F,,White,,,,NHS,W,Other Christian,S,,,,C,2016S2R,,,,,G,,,GR,,2013FA,,PT,,3,,3,PT,0.333333333,3.452,3.914,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,172,48,,124,,N,GEE,N,,,,,,,,A.MA.CMHC
+49751,24,F,WI,White,,,,,W,Lutheran - Others/Unknown,S,,,,C,2016S2R,,,,,G,,,GR,,2014SP,,FT,,3,,3,PT,0.333333333,3.865,4,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,197.5,54,,143.5,,N,,N,,,,,,,,A.MA.CMHC
+57794,24,M,MI,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,,2016S2R,,,,,G,,,GR,,2016SS,,,,9,,9,FT,1,,4,,,0,,A.MED.ILS,,,R,,,,,ILS,,,,,,,,,,CAS,4,4,,,,N,WWF,N,,,,,,,,
+49871,32,F,IN,Black or African American,,,,NHS,B,Roman Catholic,,,,,C,2016B32,,,,,G,,,GR,,2015B32,,FT,,6,,6,PT,0.666666667,,3.68,,,0,,A.MS.HCA,,,R,,,,,HCA,,,,,,,,,,CAS,30,30,,,,N,BSK,N,,,,,,,,A.MS.HMP*A.MS.HCA
+50483,23,F,IN,White,,,,NHS,W,Roman Catholic,,FA,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.191,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,204,,,204,,N,ACN,N,,,,,,,N,N.BSN.NURS
+50489,30,M,IN,White,,,,NHS,W,Orthodox,M,,,,C,2016S2R,,,,,G,,,GR,,2011SP,,PT,,3,,3,PT,0.333333333,4,3.868,,,0,,A.MA.CMHC,B.GC.MGT,,R,,,,,CMHC,ND,,,,,,,,,CAS,63,60,,3,,N,GR,N,,,,,,,,A.MA.CMHC*DEFAULT.UNDERGRAD*B.GC.MGT
+50529,53,F,PA,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,,,6,,6,PT,0.666666667,,3.93,,,0,,A.MA.CHST,,,R,,,,,CHST,,,,,,,,,,CAS,26,26,,,,N,GR,N,,,,,,,,A.MA.CHST
+50548,36,F,IN,White,,,,NHS,W,Buddhist,M,,,,C,2016S2R,,,,,G,,,GR,,2014SB2,,PT,,3,,3,PT,0.333333333,,3.77,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,30,30,,,,N,,N,,,,,,,,B.MBA.BUS
+50552,29,M,,Non-resident Alien,Y,Student Visa,IZ,NHS,,Islam (Muslim),S,,,,O,2016S2R,,,,,U,,,SR,,2012SP,,ND,3,,,3,PT,0.25,3.003,,,0,,,A.BS.PSY,,,R,,,,,PSY,,,,,HBIO,,,,,CAS,121,,,121,,N,,N,,,,,,,,A.BS.PSY
+50596,23,M,IN,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.888,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,24,24,,,,N,GR,N,,,,,,,,A.MA.CMHC
+50666,23,M,IN,White,,,,NHS,W,Roman Catholic,,,ALLM,NONE,C,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,2.991,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,158,,,158,,N,,N,,,,,,,N,N.BSN.NURS
+50716,23,F,MI,White,,,,NHS,W,Lutheran - Missouri Synod,S,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,FT,,3,,3,PT,0.333333333,3.771,4,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,160,33,,127,,N,GEE,N,,,,,,,,A.MA.CMHC
+50831,23,F,IL,White,,,,NHS,W,Other Christian,,,,,R,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,3.22,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,167,,,167,,N,,N,,,,,,,N,N.BSN.NURS
+50907,23,M,IN,White,,,,NHS,W,Orthodox,S,,,,C,2016S2R,,,,,U,,,SR,,2011FA,,FT,5,,,5,PT,0.416666667,3.348,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,123,,,123,2011,N,,N,,,,,,,,N.BSN.NURS
+50908,23,F,WI,White,,,,,W,Lutheran - Missouri Synod,S,,,,C,2016S2R,,,,,U,,,SR,,2011FA,,FT,7,,,7,PT,0.583333333,3.376,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,142.5,,,142.5,2011,N,ACN,N,,,,,,,,
+50954,23,M,IL,White,,,,NHS,W,Lutheran - ELCA,,,,,R,2016S2R,,,,,G,,,GR,,2015SS,,FT,,3,,3,PT,0.333333333,,3.9,,,0,,A.MS.SA,,,R,,,,,SA,,,,,,,,,,CAS,27,27,,,,N,GR,Y,NMBB,,,,,,,A.MS.SA
+57795,23,F,IN,Hispanic or Latino,,,,HIS,W,Baptist,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.35,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,134,,,134,,N,ACN,N,,,,,,,N,
+51007,23,M,IN,Two or More Races,,,,NHS,A*W,Roman Catholic,S,,,,R,2016S2R,,,,,G,,,GR,,2016SB1,,PT,,3,,3,PT,0.333333333,3.517,4,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,134,6,,128,,N,GR,N,,,,,,,,
+51387,22,M,IN,Non-resident Alien,Y,,FR,NHS,W,Unknown,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,2.759,3.256,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,163.5,28.5,,135,,N,GR,Y,NMSO,,,,,,,A.MS.ICP
+51403,23,F,IN,White,,,,NHS,W,Lutheran - Missouri Synod,S,,,,C,2016B32,,,,,G,,,GR,,2016B32,,FT,,3,,3,PT,0.333333333,3.458,0,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,148,0,,148,,N,BSK,N,,,,,,,,
+51573,23,M,,Non-resident Alien,Y,Student Visa,SA,NHS,,Islam (Muslim),,,,,O,2016S2R,,,,,U,,,SR,,2012SP,,ND,3,,,3,PT,0.25,2.914,,,0,,,B.BSBA.MGT,,,R,,,,,MGT,,,,,,,,,,CBA,123,,,123,2012,N,,N,,,,,,,,B.BSBA.MGT
+51641,30,M,IN,White,,,,NHS,W,Christian Reformed,,,,,C,2016S2R,,,,,G,,,GR,,2014FB2,,PT,,3,,3,PT,0.333333333,,4,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,18,18,,,,N,GR,N,,,,,,,,B.MBA.BUS
+51643,50,F,IN,Unreported,,,,,,,M,,,,C,2016S2R,,,,,U,,,SR,,2015SP,,CA,3,,,3,PT,0.25,2.468,,,0,,,A.BA.PSY,,,R,,,,,PSY,,,,,,,,,,CAS,104,,,104,,N,CA,N,,,,,,,,A.BA.PSY
+51668,24,M,,Black or African American,R,,JM,,B,Non-Denomination Christian,S,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,FT,,3,,3,PT,0.333333333,3.332,3.812,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,196,65,,131,,N,GR,Y,NMBB,,,,,,,A.MS.IEF
+51671,50,F,IN,White,,,,NHS,W,Methodist,,,,,C,2016S2R,2016S2R,,,,G,G,,GR,,2016SS,,PT,,3,,3,,,2.919,0,,,0,,N.MSN.NED,,,R,R,,,,NED,,,,,,,,,,CON,126,0,,126,,N,PPP,N,,,,,,,,N.G.ND
+51681,26,F,IN,Black or African American,,,,NHS,B,Baptist,M,,,,C,2016S2R,,,,,U,,,SO,,2012FA,,PT,6,,,6,PT,0.5,2.274,,,0,,,A.BSW.SOCW,,,R,,,,,SOCW,,,,,,,,,,CAS,47,,,47,,N,CA,N,,,,,,,Y,A.AS.GSCI
+51753,22,M,MI,White,,,,NHS,W,None,S,,,,R,2016S2R,,,,,U,,,SR,,2012FA,,FT,7,,,7,PT,0.583333333,2.429,,,0,,,A.BSPE.PESM,,,R,,,,,PESM,,,,,BUAD,,,,,CAS,117,,,117,2012,N,,Y,NMFB,,,,,,Y,A.BSPE.PESM
+51802,35,M,IN,White,,,,NHS,W,,M,,,,C,2016S2R,,,,,G,,,GR,,2015FB1,,PT,,3,,3,PT,0.333333333,,3.8,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,15,15,,,,N,GR,N,,,,,,,,B.MBA.BUS
+51882,24,F,IN,Hispanic or Latino,,,,HIS,,Roman Catholic,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,6,,6,PT,0.666666667,,3.85,,,0,,A.MA.AE,,,R,,,,,AE,,,,,,,,,,CAS,60,26,,34,,N,GR,N,,,,,,,,A.MA.AE
+51896,22,M,IL,White,,,,NHS,W,Roman Catholic,S,,,,R,2016S2R,,,,,U,,,SR,,2012FA,,FT,1,,,1,PT,0.083333333,2.748,,,0,,,A.BSPE.PESM,,,R,,,,,PESM,,,,,,,,,,CAS,153,,,153,2012,N,,N,,,,,,,,A.BSPE.PESM*B.BSBA.MGT
+51985,22,F,IN,Hispanic or Latino,,,,HIS,W,Other Christian,S,,,,C,2016S2R,,,,,U,,,SR,,2012FA,,FT,6,,,6,PT,0.5,2.945,,,0,,,A.BS.PSY,,,R,,,,,PSY,COMM,,,,FUNB,,,,,CAS,151,,,151,2012,N,,N,,,,,,,Y,A.BS.PSY
+57796,22,F,IN,Two or More Races,,,,NHS,B*W,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,JR,,2016SS,,TR,7,,,7,PT,0.583333333,2.5,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,80,,,80,,N,ACN,N,,,,,,,N,
+52036,22,F,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015SP,,TR,8,,,8,PT,0.666666667,3.129,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,151,,,151,,N,ACN,N,,,,,,,N,N.BSN.NURS
+52066,22,M,IL,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2012FA,,FT,3,,,3,PT,0.25,2.663,,,0,,,B.BSBA.MKT,,,R,,,,,MKT,,,,,,,,,,CBA,130.5,,,130.5,2012,N,,N,,,,,,,,B.BSBA.MKT
+52068,22,F,IL,White,,,,NHS,W,Roman Catholic,S,,,,R,2016S2R,,,,,U,,,SR,,2012FA,,FT,3,,,3,PT,0.25,3.041,,,0,,,A.BA.IND,,,R,,,,,IND,,,,,,,,,,CAS,122.5,,,122.5,2012,N,,N,,,,,,,Y,
+52092,21,M,,Non-resident Alien,Y,Student Visa,SA,NHS,W,,,,,,O,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.299,,,0,,,E.BSEE.EE,,,R,,,,,EE,,,,,,,,,,COE,100,,,100,,N,,N,,,,,,,,E.BSEE.EE
+52093,21,M,,Non-resident Alien,Y,Student Visa,SA,NHS,W,,,,,,O,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.464,,,0,,,E.BSEE.EE,,,R,,,,,EE,,,,,,,,,,COE,100,,,100,,N,,N,,,,,,,,E.BSEE.EE
+52114,21,M,IN,Black or African American,,,,NHS,B,Non-Denomination Christian,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,TR,6,,,6,PT,0.5,1.987,,,0,,,A.BA.COMDM,,,R,,,,,COMDM,,,,,,,,,,CAS,114,,,114,,N,,N,,,,,,,,A.BS.EXPL
+52121,22,M,IN,White,,,,NHS,W,Lutheran - Missouri Synod,,PA,,,C,2016S2R,,,,,U,,,SR,,2013SP,,TR,3,,,3,PT,0.25,2.761,,,0,,,E.BSME.ME,,,R,,,,,ME,,,,,,,,,,COE,110,,,110,,N,,N,,,,,,,,E.BSME.ME
+52138,22,F,IL,Black or African American,,,,NHS,B,Baptist,S,,,,R,2016S2R,,,,,U,,,SR,,2012FA,,FT,3,,,3,PT,0.25,2.983,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,106,,,106,2012,N,,N,,,,,,,,N.BSN.NURS
+52168,22,M,IN,White,,,,NHS,W,Christian Reformed,,,,,O,2016S2R,,,,,U,,,SR,,2012FA,,FT,5,,,5,PT,0.416666667,3.142,,,0,,,A.BSPE.PEXS,,,R,,,,,PEXS,BIO,,,,PSY,CHEM,,,,CAS,117,,,117,2012,N,,N,,,,,,,Y,A.BSPE.PEXS
+52227,23,M,IN,White,,,,NHS,W,Lutheran - WELS,S,,,,C,2016S2R,,,,,U,,,SR,,2012FA,,FT,8,,,8,PT,0.666666667,3.205,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,138,,,138,2012,N,,N,,,,,,,,N.BSN.NURS
+52249,22,M,IL,White,,,,NHS,W,Lutheran - Missouri Synod,S,,,,C,2016S2R,,,,,U,,,SR,,2012FA,,FT,3,,,3,PT,0.25,2.919,,,0,,,B.BSBA.MGT,,,R,,,,,MGT,,,,,,,,,,CBA,123,,,123,2012,N,,N,,,,,,,,B.U.UND
+52262,58,F,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,SR,,2014SS,,TR,6,,,6,PT,0.5,3.66,,,0,,,A.BA.PSY,,,R,,,,,PSY,,,,,THEO,IND,,,,CAS,150,,,150,,N,,N,,,,,,,N,A.BS.PSY
+52289,22,F,IL,Hispanic or Latino,,,,HIS,W,None,,FA,,,C,2016S2R,,,,,U,,,SR,,2013FA,,TR,8,,,8,PT,0.666666667,2.933,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,133,,,133,,N,,N,,,,,,,Y,N.BSN.NURS
+52306,24,F,IN,Hispanic or Latino,,,,HIS,,Prefer not to answer,,,,,C,2016S2R,,,,,U,,,SR,,2014FA,,TR,6,,,6,PT,0.5,3.107,,,0,,,A.BA.ART,,,R,,,,,ART,,,,,,,,,,CAS,92,,,92,,N,,N,,,,,,,Y,A.BA.ART
+52314,31,M,IN,Non-resident Alien,Y,Student Visa,SA,,A,Islam (Muslim),S,,DSS,11/11/2013,O,2016S2R,,,,,U,,,SR,,2013SP,,FT,3,,,3,PT,0.25,3.029,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,123,,,123,,N,,N,,,,,,,,B.BSBA.FIN
+52339,21,M,WI,White,,,,NHS,W,Lutheran - ELCA,,,DSS,8/28/2013,R,2016S2R,,,,,U,,,SR,,2012FA,,FT,3,,,3,PT,0.25,1.886,,,0,,,A.BA.WRTP,,,R,,,,,WRTP,,,,,MUS,,,,,CAS,100,,,100,2012,N,,N,,,,,,,,A.BA.WRTP
+52366,22,F,OH,White,,,,NHS,W,Episcopal,S,,,,N,2016S2R,,,,,U,,,SR,,2012FA,,FT,1,,,1,PT,0.083333333,3.597,,,0,,,A.BME.MUED,,,R,,,,,MUED,,,,,,,,,,CAS,135.5,,,135.5,2012,N,,N,,,,,,,Y,A.BME.MUED
+52384,22,M,IN,White,,,,NHS,W,Roman Catholic,S,,,,C,2016S2R,,,,,U,,,SR,,2012FA,,FT,3,,,3,PT,0.25,3.697,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,125,,,125,2012,N,,Y,NMBA,,,,,,,B.BSBA.FIN
+52405,24,M,IN,White,,,,NHS,W,Prefer not to answer,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,2.593,3.48,,,0,,A.MS.SA,,,R,,,,,SA,,,,,,,,,,CAS,151,15,,136,,N,GR,N,,,,,,,,A.BSPE.PESM
+52476,25,M,OH,Non-resident Alien,Y,,SA,NHS,W,Islam (Muslim),S,,,,O,2016S2R,,,,,U,,,SR,,2012SP,,FT,3,,,3,PT,0.25,3.017,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,122,,,122,,N,,N,,,,,,,,B.BSBA.FIN
+52483,40,F,IN,Black or African American,,,,NHS,B,Other,,,,,C,2016S2R,,,,,U,,,SR,,2013SS,,TR,8,,,8,PT,0.666666667,2.773,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,248,,,248,,N,ACN,N,,,,,,,N,N.BSN.NURS
+52486,26,M,,Non-resident Alien,Y,,SA,NHS,,Islam (Muslim),S,,,,C,2016S2R,,,,,U,,,SR,,2012SS,,FT,3,,,3,PT,0.25,3.031,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,128,,,128,2012,N,,N,,,,,,,,B.BSBA.FIN
+52487,26,M,,Non-resident Alien,Y,,SA,NHS,W,Islam (Muslim),S,,,,O,2016S2R,,,,,U,,,SR,,2012FA,,FT,3,,,3,PT,0.25,3.055,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,125,,,125,2012,N,,N,,,,,,,,B.BSBA.FIN
+52489,22,F,IL,Black or African American,,,,NHS,B,Other,S,,,,R,2016S2R,,,,,U,,,SR,,2012FA,,FT,6,,,6,PT,0.5,2.026,,,0,,,A.BA.PSY,,,R,,,,,PSY,,,,,COMM,,,,,CAS,115.5,,,115.5,2012,N,,N,,,,,,,,A.BS.PSY
+52500,34,M,IN,White,,,,NHS,W,Lutheran - WELS,M,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,FT,,3,,3,PT,0.333333333,3.113,3.607,,,0,,N.DNP.APN,,,R,,,,,APN,,,,,,,,,,CON,266.5,46,,220.5,,N,GR,N,,,,,,,,N.DNP.APN
+52562,22,F,IL,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2012FA,,FT,3,,,3,PT,0.25,3.095,,,0,,,A.BA.ENGL,,,R,,,,,ENGL,SEED,,,,,,,,,CAS,132,,,132,2012,N,,N,,,,,,,,A.BA.ENGL
+52597,20,F,IN,White,,,,NHS,W,None,,CE,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.407,,,0,,,A.BA.COMM,,,R,,,,,COMM,,,,,,,,,,CAS,91,,,91,,N,,N,,,,,,,,A.BA.COMDM
+52629,26,F,IL,White,,,,NHS,W,None,S,,,,C,2016S2R,,,,,G,,,GR,,2013FB1,,PT,,3,,3,PT,0.333333333,,3.653,3.127,,0,,B.MBA.JD.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,128,32,96,,,N,DDG,N,,,,,,,,B.MBA.JD.BUS
+52635,33,F,IN,Black or African American,,,GH,NHS,B,Presbyterian,S,,,,C,2016S2L,,,,,L,,,L2,,2014FL,,FT,,,5,5,PT,0.416666667,2,3.725,2.409,,,0,L.JD.LAW,,,R,,,,,LAW,,,,,,,,,,SL,104,37,64,3,,N,,N,,,,,,,,L.JD.LAW
+52703,22,F,,Non-resident Alien,Y,,CH,NHS,A,Unknown,S,,,,R,2016S2R,,,,,U,,,SR,,2012FA,,FT,6,,,6,PT,0.5,3.349,,,0,,,B.BSBA.IB,,,R,,,,,IB,COMM,,,,,,,,,CBA,173.5,,,173.5,2012,N,,N,,,,,,,,B.BSBA.IB
+52723,29,M,MI,White,,,,NHS,W,None,S,,,,C,2016S2R,,,,,G,,,GR,,2013FB1,,PT,,3,,3,PT,0.333333333,,3.9,3.126,,0,,B.MBA.JD.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,115,20,95,,,N,DDG,N,,,,,,,,B.MBA.JD.BUS
+52757,25,M,IN,Non-resident Alien,Y,,SA,,A*W,Islam (Muslim),S,,,,O,2016S2R,,,,,U,,,SR,,2012FA,,FT,3,,,3,PT,0.25,2.469,,,0,,,B.BSBA.MGT,,,R,,,,,MGT,,,,,,,,,,CBA,103,,,103,2012,N,,N,,,,,,,,B.BSBA.MGT
+52829,28,M,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2014SB1,,PT,,3,,3,PT,0.333333333,,3.797,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,35,35,,,,N,,N,,,,,,,,B.MBA.BUS
+52836,21,F,IN,Unreported,,,,NHS,,Other Christian,,,,,R,2016S2R,,,,,U,,,SR,,2014SP,,TR,3,,,3,PT,0.25,3.032,,,0,,,N.BSHCL.HCL,,,R,,,,,HCL,,,,,,,,,,CON,91,,,91,,N,,N,,,,,,,N,N.BS.HCL*N.BSHCL.HCL
+52913,31,F,IN,White,,,,NHS,W,Roman Catholic,M,,,,C,2016S2R,,,,,G,,,GR,,2013S1R,,PT,,3,,3,PT,0.333333333,,3.838,3.314,,0,,B.MBA.JD.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,126,34,92,,,N,DDG,N,,,,,,,,B.MBA.JD.BUS
+52936,47,F,IN,White,,,,NHS,W,Roman Catholic,M,,,,C,2016S2R,,,,,U,,,SP,,2016SP,,CA,4,,,4,PT,0.333333333,4,,,0,,,U.CASC,,,R,,,,,ND,,,,,,,,,,CAS,7,,,7,,N,CA,N,,,,,,,,
+52937,23,M,,Non-resident Alien,Y,Student Visa,CH,NHS,A,,,,,,O,2016S2R,,,,,U,,,SR,,2013SS,,FT,3,,,3,PT,0.25,2.806,,,0,,,B.BSBA.MGT,,,R,,,,,MGT,,,,,,,,,,CBA,89,,,89,,N,,N,,,,,,,Y,B.BSBA.MGT
+52953,32,F,IL,White,,,,NHS,W,Islam (Muslim),M,,,,C,2016S2R,,,,,G,,,GR,,2012FA,,PT,,3,,3,PT,0.333333333,,3.523,,,0,,A.MHA.HADM,,,R,,,,,HADM,,,,,,,,,,CON,35,35,,,,N,GR,N,,,,,,,,A.MHA.HADM
+53005,22,M,WI,White,,,,NHS,W,Judaism,S,,,,R,2016S2R,,,,,U,,,SR,,2012FA,,FT,7,,,7,PT,0.583333333,2.463,,,0,,,A.BSPE.PESM,,,R,,,,,PESM,,,,,FUNB,,,,,CAS,102,,,102,2012,N,,N,,,,,,,,A.BSPE.PESM
+53045,23,M,IN,Non-resident Alien,Y,,SA,NHS,A,Islam (Muslim),S,,,,O,2016S2R,,,,,U,,,SR,,2012FA,,FT,3,,,3,PT,0.25,2.197,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,118,,,118,2012,N,,N,,,,,,,Y,B.BSBA.FIN
+53062,23,M,IN,Hispanic or Latino,,,,HIS*HP,W,Assembly of God,S,,,,C,2016S2R,,,,,U,,,SR,,2012FA,,FT,3,,,3,PT,0.25,2.783,,,0,,,A.BA.SOCC,,,R,,,,,SOCC,,,,,THEO,,,,,CAS,121,,,121,2012,N,,N,,,,,,,Y,A.BA.SOCC
+53068,38,F,IN,White,,,,NHS,W,Baptist,,,,,C,2016S2R,,,,,G,,,GR,,2013FA,,FT,,3,,3,PT,0.333333333,,4,,,0,,A.MA.CMHC,A.GC.LCAC,,R,,,,,CMHC,ND,,,,,,,,,CAS,63,63,,,,N,GR,N,,,,,,,,A.MA.CMHC
+53102,37,M,IN,White,,,,NHS,W,None,S,,,,C,2016S2R,,,,,G,,,GR,,2014FB1,,PT,,3,,3,PT,0.333333333,,3.118,2.746,,0,,B.MBA.JD.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,141,33,108,,,N,,N,,,,,,,,B.MBA.JD.BUS
+53146,21,M,IL,White,,,,NHS,W,Lutheran - ELCA,,FA,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,6,,,6,PT,0.5,2.963,,,0,,,A.BSED.ED,,,R,,,,,ELED,,,,,SPED,MATH,,,,CAS,98,,,98,,N,,Y,NMCC,NMTK,,,,,,A.BS.MATH
+53164,38,M,IN,,,,,U*NHS,U,Islam (Muslim),M,,,,C,2016S2R,,,,,G,,,GR,,2013SS,,PT,,6,,6,PT,0.666666667,1.65,3.344,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,34.5,28.5,,6,,N,GR,N,,,,,,,,A.MS.IEF*DEFAULT.UNDERGRAD
+53180,21,F,IL,White,,,,NHS,W,Non-Denomination Christian,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.155,,,0,,,A.BS.MET,,,R,,,,,MET,,,,,MUS,MATH,,,,CAS,112,,,112,,N,,N,,,,,,,,A.BS.MET
+53195,28,M,IN,Non-resident Alien,Y,,SA,,,Islam (Muslim),,,,,C,2016S2R,,,,,U,,,SR,,2013SP,,FT,3,,,3,PT,0.25,2.474,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,166,,,166,,N,,N,,,,,,,,B.BSBA.FIN
+53201,23,M,,Non-resident Alien,Y,,VE,HIS,W,None,S,,,,R,2016S2R,,,,,U,,,SR,,2013SP,,FT,1,,,1,PT,0.083333333,3.745,,,0,,,E.BSCE.CE,,,R,,,,,CE,,,,,,,,,,COE,111,,,111,,N,,N,,,,,,,,E.BSCE.CE
+53212,21,M,IN,White,,,,NHS,W,Lutheran - ELCA,,FA,,,N,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.412,,,0,,,A.BA.MUS,,,R,,,,,MUS,,,,,ENGR,IND,,,,CAS,121.5,,,121.5,,Y,,N,,,,,,,,A.BA.MUS
+53262,32,F,IN,White,,,,,W,Orthodox,M,,,,,2016S2R,,,,,G,,,GR,,2016SP,,,,3,,3,PT,0.333333333,,4,,,0,,A.MED.ILE,,,R,,,,,ILE,,,,,,,,,,CAS,8,8,,,,N,,N,,,,,,,,
+53270,20,F,IL,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.169,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,96,,,96,,N,,N,,,,,,,,N.BSN.NURS
+53275,21,M,OH,White,,,,NHS,W,Methodist,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.87,,,0,,,A.BS.GEO,,,R,,,,,GEO,,,,,,,,,,CAS,91,,,91,,N,,Y,NMTE,,,,,,,A.BS.GEO
+53284,22,M,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2013FA,,FT,6,,,6,PT,0.5,3.878,,,0,,,E.BSEE.EE,,,R,,,,,EE,,,,,,,,,,COE,92,,,92,,N,,N,,,,,,,,E.BSEE.EE
+53321,21,F,IN,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.462,,,0,,,A.BA.WRTC,,,R,,,,,WRTC,,,,,FUNB,,,,,CAS,117,,,117,,N,,N,,,,,,,,A.BA.WRTC
+53329,22,M,IN,Non-resident Alien,Y,,KU,NHS,A,Islam (Muslim),S,,,,C,2016S2R,,,,,U,,,SR,,2013SP,,TR,6,,,6,PT,0.5,2.791,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,112,,,112,,N,,N,,,,,,,,B.BSBA.FIN
+53336,21,M,IL,White,,,,NHS,W,Roman Catholic,,,,,O,2016S2R,,,,,U,,,JR,,2013FA,,FT,3,,,3,PT,0.25,1.809,,,0,,,A.BA.COMM,,,R,,,,,COMM,,,,,BUAD,,,,,CAS,82,,,82,,N,,N,,,,,,,Y,B.BSBA.FIN
+53364,24,F,IN,White,,,,NHS,W,Pentecostal,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,TR,3,,,3,PT,0.25,2.94,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,129,,,129,,N,,N,,,,,,,,N.BSN.NURS
+53377,21,F,IN,White,,,,NHS,W,Judaism,,,DSS,12/17/2013,C,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.695,,,0,,,A.BA.PSY,,,R,,,,,PSY,ART,,,,THTR,FREN,,,,CAS,117,,,117,,N,,N,,,,,,,,A.BA.PSY
+53378,22,M,IN,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2013FA,,FT,5,,,5,PT,0.416666667,2.904,,,0,,,A.BS.MET,,,R,,,,,MET,,,,,COMDM,,,,,CAS,75,,,75,,N,,Y,NMBA,,,,,,,A.BS.MET
+53382,21,F,IN,Asian,,,RP,NHS,A,Protestant - Unspecified,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,TR,3,,,3,PT,0.25,3.048,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,69,,,69,,N,,N,,,,,,,N,N.BSN.NURS
+53399,31,M,IN,Non-resident Alien,Y,,SA,NHS,A,Islam (Muslim),S,,,,C,2016S2R,,,,,U,,,SR,,2013SP,,TR,3,,,3,PT,0.25,2.895,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,152,,,152,,N,,N,,,,,,,Y,B.BSBA.FIN
+53405,46,F,IN,Unreported,,,,,,,,,,,O,2016B32,,,,,G,,,GR,,2015B21,,FT,,3,,3,PT,0.333333333,,3.714,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,21,21,,,,N,BSK,N,,,,,A,SA,,A.MS.HMP
+53422,21,F,IN,White,,,,NHS,W,Methodist,,,DSSAD*DSSAN,09/16/15*09/16/15,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.209,0,,0,,,N.BS.HCL,,,R,,,,,HCL,,,,,,,,,,CON,102,0,,102,,N,,N,,,,,,,,N.BS.HCL
+53434,21,M,IL,Black or African American,,,,NHS,B,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2013SS,,FT,3,,,3,PT,0.25,2.862,,,0,,,B.BSBA.ACC,,,R,,,,,ACC,,,,,,,,,,CBA,128,,,128,,N,,Y,NMBB,,,,,,Y,B.BSBA.ACC
+53440,21,F,IL,Hispanic or Latino,,,,HIS,,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,2.89,,,0,,,A.BA.PSY,,,R,,,,,PSY,,,,,PEXS,,,,,CAS,103,,,103,,N,,N,,,,,,,,A.BSPE.PEXS
+53449,20,F,IL,Asian,,,,NHS,A,Roman Catholic,,,,,N,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.143,,,0,,,A.BA.SOCC,,,R,,,,,SOCC,,,,,,,,,,CAS,113.5,,,113.5,,N,,N,,,,,,,,A.BA.SOCC
+53450,21,M,IL,Two or More Races,,,,NHS,P*W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.3,3.342,,0,,,A.BME.MUED,,,R,,,,,MUED,,,,,,,,,,CAS,147,12,,135,,N,GEE,N,,,,,,,,A.BME.MUED*DEFAULT.GRAD
+53455,21,F,IL,White,,,,NHS,W,Evangelical,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.493,,,0,,,A.BS.BIO,,,R,,,,,BIO,,,,,,,,,,CAS,102,,,102,,N,,Y,NWSO,,,,,,,A.BS.BIO
+53480,21,F,IL,White,,,,NHS,W,Lutheran - ELCA,,FA,,,R,2016S2R,,,,,U,,,SR,,2014FA,,TR,6,,,6,PT,0.5,2.698,,,0,,,A.BS.CHEM,,,R,,,,,CHEM,SOCC,,,,,,,,,CAS,94,,,94,,N,,N,,,,,,,N,A.BS.CHEM
+53485,25,M,IN,Non-resident Alien,Y,,SA,NHS,A,Islam (Muslim),,,,,C,2016S2R,,,,,U,,,JR,,2013FA,,FT,3,,,3,PT,0.25,3.01,,,0,,,A.BA.COMDM,,,R,,,,,COMDM,,,,,FUNB,IND,,,,CAS,84,,,84,,N,,N,,,,,,,Y,A.BA.COMDM
+53511,20,F,IL,Black or African American,,,,NHS,B,Lutheran - Missouri Synod,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,1,,,1,PT,0.083333333,3.077,,,0,,,A.BA.ART,,,R,,,,,ART,,,,,,,,,,CAS,97,,,97,,N,,N,,,,,,,,B.BSBA.MKT*A.BA.ART
+53523,23,F,,Non-resident Alien,Y,,TW,NHS,A,None,,,,,R,2016S2R,,,,,U,,,SR,,2014SP,,FT,3,,,3,PT,0.25,3.246,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,93,,,93,,N,,N,,,,,,,,N.BSN.NURS
+53553,21,F,IN,White,,,,NHS,W,Prefer not to answer,,FA,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,4,,,4,PT,0.333333333,2.896,,,0,,,A.BS.MET,,,R,,,,,MET,,,,,,,,,,CAS,93,,,93,,N,,N,,,,,,,,A.BS.MET
+53562,21,F,TX,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,N,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.977,,,0,,,A.BA.CLAS,,,R,,,,,CLAS,HUM,,,,,,,,,CAS,121.5,,,121.5,,Y,,N,,,,,,,,A.BA.CLAS
+53573,21,F,IN,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.575,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,THTR,,,,,CON,104,,,104,,N,,N,,,,,,,,N.BSN.NURS
+53589,21,M,IL,Black or African American,,,,NHS,B,Prefer not to answer,S,,,,R,2016S2R,,,,,U,,,SR,,2013SS,,,,6,,6,PT,0.666666667,3.331,3.7,,,0,,A.BSPE.PESM,,,R,,,,,PESM,,,,,,,,,,CAS,130,6,,124,,N,GEE,Y,NMBB,,,,,,,A.BSPE.PESM
+53644,21,M,IL,White,,,,NHS,W,Roman Catholic,,,,,N,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.695,,,0,,,A.BS.MET,,,R,,,,,MET,,,,,COMDM,,,,,CAS,109.5,,,109.5,,N,,N,,,,,,,,A.BS.MET
+53656,21,F,IL,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.779,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,PSY,,,,,CON,106,,,106,,N,,N,,,,,,,Y,N.BSN.NURS
+53659,20,F,WI,White,,,,NHS,W,Lutheran - ELCA,,PA,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.446,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,IND,,,,,CON,104,,,104,,N,,N,,,,,,,,N.BSN.NURS
+53669,21,F,CA,White,,,,NHS,W,Episcopal,,,,,N,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.724,,,0,,,A.BA.MUS,,,R,,,,,MUS,,,,,PSY,,,,,CAS,102.5,,,102.5,,Y,,N,,,,,,,,A.BA.MUS
+53678,27,M,IN,Non-resident Alien,Y,,SA,HIS,A,Islam (Muslim),,,,,O,2016S2R,,,,,U,,,SR,,2013SP,,FT,4,,,4,PT,0.333333333,3.091,,,0,,,E.BSEE.EE,,,R,,,,,EE,,,,,,,,,,COE,105,,,105,,N,,N,,,,,,,Y,E.BSEE.EE
+53681,20,F,MI,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.024,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,93,,,93,,N,,N,,,,,,,,N.BSN.NURS
+53687,21,F,IL,White,,,,NHS,W,Lutheran - ELCA,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.318,,,0,,,A.BS.MET,,,R,,,,,MET,,,,,ACT,,,,,CAS,114,,,114,,N,,N,,,,,,,,A.BS.MET
+53701,21,F,IN,Hispanic or Latino,R,,MX,HIS,W,Roman Catholic,,,,,N,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.483,,,0,,,B.BSBA.IB,,,R,,,,,IB,GER,,,,,,,,,CBA,126.5,,,126.5,,N,,N,,,,,,,Y,B.BSBA.IB
+53725,21,F,IL,White,,,,NHS,W,Lutheran - Missouri Synod,,FA,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,2.935,,,0,,,A.BSPE.PEXS,,,R,,,,,PEXS,,,,,PSY,HBIO,,,,CAS,93,,,93,,N,,N,,,,,,,,A.BSPE.PEXS
+53756,21,F,IL,Hispanic or Latino,,,,HIS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,2.851,,,0,,,A.BA.ENGL,,,R,,,,,ENGL,SEED,,,,,,,,,CAS,101.5,,,101.5,,N,,N,,,,,,,Y,A.BA.ENGL
+53767,21,M,MA,White,,,,NHS,W,Evangelical,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,5,,,5,PT,0.416666667,2.861,,,0,,,A.BSPE.PESM,,,R,,,,,PESM,,,,,BUAD,,,,,CAS,95,,,95,,N,,Y,NMBB,,,,,,,A.BSPE.PESM
+53777,21,M,IN,White,,,,NHS,W,Methodist,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,6,,,6,PT,0.5,2.82,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,104,,,104,,N,,Y,NMFB,,,,,,,A.BSPE.PETE
+53785,20,F,WI,White,,,,NHS,W,None,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,2.62,,,0,,,E.BSME.ME,,,R,,,,,ME,,,,,EE,,,,,COE,105,,,105,,N,,N,,,,,,,,E.BSME.ME
+53793,21,M,IL,White,,,,NHS,W,Lutheran - ELCA,,,,,R,2016S2R,,,,,U,,,JR,,2013FA,,FT,3,,,3,PT,0.25,2.851,,,0,,,A.BA.THTR,,,R,,,,,THTR,,,,,COMDM,,,,,CAS,86,,,86,,N,,N,,,,,,,,A.BA.THTR
+53819,21,F,IL,Black or African American,,,,NHS,B,Baptist,,,,,R,2016S2R,,,,,U,,,JR,,2013FA,,FT,3,,,3,PT,0.25,2.219,,,0,,,B.BSBA.MGT,,,R,,,,,MGT,,,,,,,,,,CBA,86,,,86,,N,,N,,,,,,,Y,B.BSBA.FIN
+53826,21,F,IN,Hispanic or Latino,,,,HIS,W,Other Christian,,,,,R,2016S2R,,,,,U,,,JR,,2013FA,,FT,12,,,12,FT,1,2.052,,,0,,,A.BS.PSY,,,R,,,,,PSY,,,,,,,,,,CAS,77,,,77,,N,,N,,,,,,,,A.BS.PSY
+53841,21,M,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,JR,,2013FA,,FT,3,,,3,PT,0.25,2.353,,,0,,,A.BA.SOCC,,,R,,,,,SOCC,,,,,,,,,,CAS,86,,,86,,N,,N,,,,,,,Y,A.BA.SOCC
+53858,22,M,IN,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2013SS,,FT,3,,,3,PT,0.25,3.111,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,102,,,102,,N,,Y,NMBB,,,,,,,N.BSN.NURS
+53877,21,F,CA,White,,,,NHS,W,Baptist,,,DSS,10/24/2013,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.338,,,0,,,N.BS.HCL,,,R,,,,,HCL,,,,,,,,,,CON,100,,,100,,N,,N,,,,,,,,N.BS.HCL
+53918,21,M,IL,Black or African American,,,,NHS,B,Baptist,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,2.891,,,0,,,B.BSBA.FIN.ACC,,,R,,,,,FIN,ACC,,,,,,,,,CBA,110,,,110,,N,,N,,,,,,,Y,B.BSBA.FIN.ACC
+53992,21,F,IN,Non-resident Alien,Y,,CH,NHS,A,,,,,,N,2016S2R,,,,,U,,,SR,,2013FA,,FT,6,,,6,PT,0.5,2.678,,,0,,,A.BA.ART,,,R,,,,,ART,COMDM,,,,,,,,,CAS,111,,,111,,N,,N,,,,,,,Y,A.BA.ART
+54036,24,M,IN,Non-resident Alien,Y,,SA,NHS,A,Islam (Muslim),,,,,C,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.117,,,0,,,E.BSEE.EE,,,R,,,,,EE,,,,,,,,,,COE,105,,,105,,N,,N,,,,,,,Y,E.BSEE.EE
+54040,21,M,IL,White,,,,NHS,W,Lutheran - ELCA,,,,,R,2016S2R,,,,,U,,,SR,,2013SS,,FT,6,,,6,PT,0.5,3.398,,,0,,,A.BSPE.PESM,,,R,,,,,PESM,,,,,BUAD,,,,,CAS,125,,,125,,N,GEE,Y,NMBB,,,,,,,A.BSPE.PESM
+54071,21,M,IL,White,,,,NHS,W,Lutheran - Missouri Synod,,FA,,,R,2016S2R,,,,,U,,,JR,,2016SP,,TR,1,,,1,PT,0.083333333,2.624,,,0,,,E.BSCE.CE,,,R,,,,,CE,,,,,,,,,,COE,70,,,70,,N,,N,,,,,,,Y,
+54098,21,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,4,,,4,PT,0.333333333,2.916,,,0,,,E.BSME.ME,,,R,,,,,ME,,,,,HENG,,,,,COE,95.5,,,95.5,,N,,N,,,,,,,,E.BSME.ME
+54148,21,F,IL,Hispanic or Latino,,,,HIS,,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,6,,,6,PT,0.5,2.698,,,0,,,B.BSBA.ACC.MGT,,,R,,,,,ACC,MGT,,,,HBIO,SPAN,,,,CBA,107,,,107,,N,,N,,,,,,,,B.BSBA.ACC.MGT
+54152,22,M,IL,Black or African American,,,,,B,,,,,,R,2016S2R,2016S2R,,,,G,,,GR,,2016SS,2016SS,,,6,,6,,,2.642,0,,,0,,A.MS.SA,,,R,R,,,,SA,,,,,,,,,,CAS,128,0,,128,,N,GR,Y,NMBB,,,,,,,A.BSPE.PESM
+54175,24,M,IN,Non-resident Alien,Y,,SA,NHS,A,Islam (Muslim),,,,,C,2016S2R,,,,,U,,,JR,,2013FA,,FT,3,,,3,PT,0.25,2.776,,,0,,,B.BSBA.MGT,,,R,,,,,MGT,,,,,,,,,,CBA,82,,,82,,N,,N,,,,,,,Y,B.BSBA.MGT
+54193,23,M,,Non-resident Alien,Y,,SA,NHS,W,Islam (Muslim),,,,,C,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,3.615,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,101,,,101,,N,,N,,,,,,,Y,B.BSBA.FIN
+54212,21,M,CA,Two or More Races,,,,NHS,A*W,None,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,1,,,1,PT,0.083333333,3.02,,,0,,,A.BS.ENSC,,,R,,,,,ENSC,,,,,,,,,,CAS,93,,,93,,N,,Y,NMBA,,,,,,,A.BS.ENSC
+54230,25,F,MI,Asian,,,,NHS,A,,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.349,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,134,,,134,,N,ACN,N,,,,,,,,N.BSN.NURS
+54301,26,F,IN,American/Alaska Native,,,,NHS,I,Other Christian,,,DSSAD,9/7/2015,C,2016S2R,,,,,U,,,SR,,2013FA,,TR,5,,,5,PT,0.416666667,2.594,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,140,,,140,,N,,N,,,,,,,,N.BSN.NURS
+54330,23,M,IN,Non-resident Alien,Y,,SA,NHS,,Unknown,,,,,C,2016S2R,,,,,U,,,SR,,2013SS,,FT,3,,,3,PT,0.25,3.393,,,0,,,A.BS.CS,,,R,,,,,CS,,,,,,,,,,CAS,124,,,124,,N,,N,,,,,,,Y,A.BS.CS
+54331,23,M,,Non-resident Alien,Y,,JM,NHS,B,,,,,,O,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,2.859,,,0,,,B.BSBA.IB,,,R,,,,,IB,,,,,,,,,,CBA,109,,,109,,N,,Y,NMSO,,,,,,Y,B.BSBA.IB
+54332,22,M,,Non-resident Alien,Y,,CH,NHS,A,,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,FT,3,,,3,PT,0.25,2.586,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,97,,,97,,N,,N,,,,,,,,B.BSBA.FIN
+54336,35,F,IN,,,,,NHS,U,,D,,,,C,2016S2R,,,,,G,,,GR,,2014SP,,FT,,6,,6,PT,0.666666667,,3.786,2.249,,0,,A.MS.JD.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,83.5,28.5,55,,,N,,N,,,,,,,,A.MS.JD.ICP*L.JD.LAW
+54339,25,F,OH,White,,,,NHS,W,,S,,,,C,2016S2R,,,,,G,,,GR,,2014FB1,,PT,,3,,3,PT,0.333333333,,3.757,2.914,,0,,B.MBA.JD.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,108,21,87,,,N,DDG,N,,,,,,,,B.MBA.JD.BUS*L.JD.LAW.MBA
+54378,22,F,IL,White,,,,NHS,W,Methodist,,,,,O,2016S2R,,,,,U,,,SR,,2013FA,,TR,3,,,3,PT,0.25,3.655,,,0,,,B.BSBA.MGT,,,R,,,,,MGT,,,,,,,,,,CBA,140,,,140,,N,,N,,,,,,,,B.BSBA.MGT
+54552,22,M,NM,Hispanic or Latino,,,,HIS,W,,,,,,R,2016S2R,,,,,U,,,SR,,2013FA,,TR,1,,,1,PT,0.083333333,2.462,,,0,,,A.BSPE.PESM,,,R,,,,,PESM,,,,,FUNB,SPAN,,,,CAS,127,,,127,,N,,Y,NMSO,,,,,,Y,A.BSPE.PESM
+54599,22,F,MI,White,,,,NHS,W,Non-Denomination Christian,,,,,R,2016S2R,,,,,U,,,SR,,2013SS,,TR,5,,,5,PT,0.416666667,3.32,,,0,,,A.BS.PSY,,,R,,,,,PSY,,,,,SPAN,PEXS,,,,CAS,142,,,142,,N,,Y,NWBB,,,,,,,A.BS.PSY
+54618,30,F,GA,Black or African American,,,,NHS,B,Roman Catholic,S,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,1.65,2.376,,0,,A.MS.JD.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,101,3,98,,,N,GR,N,,,,,,A,,L.JD.LAW
+54672,20,M,NJ,Hispanic or Latino,,,,HIS,W,Lutheran - Missouri Synod,,,DSS,8/27/2014,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.102,,,0,,,E.BSME.ME,,,R,,,,,ME,,,,,FUNB,,,,,COE,78.5,,,78.5,,N,,N,,,,,,,N,E.BSME.ME
+54678,21,M,IN,Hispanic or Latino,,,,HIS,,Baptist,,,,,C,2016S2R,,,,,U,,,JR,,2015FA,,TR,6,,,6,PT,0.5,2.267,,,0,,,A.BS.BIO.CHEM,,,R,,,,,BIO,CHEM,,,,,,,,,CAS,70,,,70,,N,,Y,NMCC,,,,,,N,A.BS.BIO.CHEM
+54679,21,M,,Non-resident Alien,Y,Student Visa,CH,NHS,A,,,,,,R,2016S2R,,,,,U,,,SO,,2014SP,,ND,7,,,7,PT,0.583333333,2.789,,,0,,,E.BSME.ME,,,R,,,,,ME,,,,,,,,,,COE,37,,,37,,N,,N,,,,,,,,E.U.ENGR
+54687,32,F,OH,White,,,,NHS,W,Other,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,0,,0,PT,0,,3.544,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,12.5,12.5,,,,N,GR,N,,,,,,,,
+54693,21,M,IN,Black or African American,,,,NHS,B,Lutheran - Missouri Synod,,,DSS,11/14/2014,R,2016S2R,,,,,U,,,SR,,2013FA,,TR,6,,,6,PT,0.5,2.494,,,0,,,A.BA.IND,,,R,,,,,IND,,,,,,,,,,CAS,103,,,103,,N,,Y,NMFB,,,,,,,A.BA.THEO
+54698,21,F,,Non-resident Alien,Y,Student Visa,CH,,,,,,,,C,2016S2R,,,,,U,,,SO,,2015SP,,FT,3,,,3,PT,0.25,3.083,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,55,,,55,,N,,N,,,,,,,,B.BSBA.FIN
+54705,21,F,IN,White,,,,NHS,W,,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,,,3,,3,PT,0.333333333,3.641,3.925,,,0,,A.MS.DM,,,R,,,,,DM,,,,,,,,,,CAS,136,12,,124,,N,GR,Y,NWBB,,,,,,,A.BA.ART
+54731,20,F,,Non-resident Alien,Y,,SA,NHS,,Islam (Muslim),,,,,O,2016S2R,,,,,U,,,SO,,2013FA,,ND,3,,,3,PT,0.25,2.944,,,0,,,A.BA.ART,,,R,,,,,ART,,,,,,,,,,CAS,43,,,43,,N,,N,,,,,,,,A.BA.ART
+54735,20,M,IL,White,,,,NHS,W,Lutheran - Aflc Free,,,DSS*ALLM,08/26/14*NONE,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.154,,,0,,,A.BSW.SOCW,,,R,,,,,SOCW,,,,,COMM,,,,,CAS,66,,,66,,N,,Y,NMCC,NMTK,,,,,,A.BSW.SOCW
+54740,21,F,IN,Non-resident Alien,Y,,SA,NHS,A,Islam (Muslim),,,,,C,2016S2R,,,,,U,,,SR,,2014SP,,FT,3,,,3,PT,0.25,3.77,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,BAN,MATH,,,,CBA,100,,,100,,N,,N,,,,,,,,B.BSBA.FIN
+54766,33,M,IN,White,,,,,W,,,,,,C,2016S2R,,,,,G,,,GR,,2013FA,,PT,,3,,3,PT,0.333333333,0,4,,,0,,A.MS.AMOD,,,R,,,,,AMOD,,,,,,,,,,CAS,29,29,,0,,N,GR,N,,,,,,,,A.MS.AMOD
+54806,24,F,IN,White,,,,NHS,W,Prefer not to answer,,,AST*ALLM,NONE*NONE,C,2016S2R,,,,,U,,,SR,,2014FA,,TR,3,,,3,PT,0.25,2.919,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,108,,,108,,N,,N,,,,,,,,N.BSN.NURS
+54808,25,F,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,U,,,SR,,2014SP,,TR,3,,,3,PT,0.25,3.304,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,127,,,127,,N,ACN,N,,,,,,,,N.BSN.NURS
+54831,42,F,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2015FB1,,PT,,3,,3,PT,0.333333333,,3.94,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,15,15,,,,N,GR,N,,,,,,,,B.MBA.BUS
+57799,24,F,IL,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.5,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,143,,,143,,N,ACN,N,,,,,,,Y,
+54846,20,M,IN,White,,,,NHS,W,Roman Catholic,,FA,AST,NONE,C,2016S2R,,,,,U,,,SR,,2014FA,,FT,5,,,5,PT,0.416666667,3.684,,,0,,,B.BSBA.MGT,,,R,,,,,MGT,PESM,,,,SPAN,,,,,CBA,88,,,88,,N,,Y,NMTK,,,,,,N,B.BSBA.MGT
+54847,20,F,IL,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.303,,,0,,,A.BS.MET,,,R,,,,,MET,,,,,,,,,,CAS,77,,,77,,N,,N,,,,,,,N,A.BS.MET
+54863,25,M,IN,Non-resident Alien,Y,,CH,NHS,A,,,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,,,3,,3,PT,0.333333333,2.047,2.695,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,77,22,,55,,N,GR,N,,,,,,,Y,A.MS.IEF
+54867,26,F,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2013FA,,CA,8,,,8,PT,0.666666667,3.3,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,197,,,197,,N,ACN,N,,,,,,,Y,N.BSN.NURS*U.CASC
+54873,19,F,IN,White,,,,NHS,W,Prefer not to answer,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,1,,,1,PT,0.083333333,1.922,,,0,,,A.BA.EXPL,,,R,,,,,EXPL,,,,,,,,,,CAS,30,,,30,,N,PSP,N,,,,,,,N,A.BS.BIO.CHEM
+54874,20,M,IL,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2014FA,,FT,4,,,4,PT,0.333333333,3.173,,,0,,,A.BS.MET,,,R,,,,,MET,GEO,,,,,,,,,CAS,93,,,93,,N,,N,,,,,,,N,A.BS.MET
+54900,20,M,PA,White,,,,,W,Lutheran - ELCA,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,2.146,,,0,,,A.BA.THEO.MNTY,,,R,,,,,THEOM,,,,,,,,,,CAS,56,,,56,,N,,N,,,,,,,,A.BA.THEO.MNTY
+54911,19,M,IL,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,4,,,4,PT,0.333333333,3.078,,,0,,,A.BS.MET,,,R,,,,,MET,,,,,PHYS,GIS,,,,CAS,67,,,67,,N,,N,,,,,,,N,A.BS.MET
+54913,20,F,IN,White,,,,,W,Unknown,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.255,,,0,,,A.BSED.ED,,,R,,,,,ELED,,,,,ENGL,MATH,,,,CAS,63,,,63,,N,,Y,NWVB,,,,,,N,A.BSED.ED
+54925,20,F,IN,Asian,,,,NHS,A,Protestant - Unspecified,,,,,C,2016S2R,,,,,U,,,JR,,2014FA,,FT,4,,,4,PT,0.333333333,2.91,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,PSY,,,,,CON,81,,,81,,N,,N,,,,,,,N,N.BSN.NURS
+54933,20,F,MN,White,,,,NHS,W,,,,,,R,2016S2R,,,,,U,,,JR,,2014SS,,FT,5,,,5,PT,0.416666667,2.945,,,0,,,A.BA.IRL,,,R,,,,,IRL,,,,,,,,,,CAS,66,,,66,,N,,Y,NWBB,,,,,,N,A.BA.IRL
+54968,24,F,OH,White,,,,NHS,W,,,,,,,2016S2L,,,,,L,,,L2,,2014FL,,FT,,,5,5,PT,0.416666667,,,3.104,,,0,L.JD.LAW,,,R,,,,,LAW,,,,,,,,,,SL,70,,70,,,N,,N,,,,,,,,L.JD.LAW
+54971,20,M,IN,Hispanic or Latino,,,,HIS,W,Methodist,,,,,R,2016S2R,,,,,U,,,SO,,2014FA,,FT,7,,,7,PT,0.583333333,1.51,,,0,,,A.BA.EXPL,,,R,,,,,EXPL,,,,,,,,,,CAS,43.5,,,43.5,,N,,N,,,,,,,N,E.BSME.ME
+54998,31,F,IN,Non-resident Alien,Y,Student Visa,CH,NHS,A,Baptist,,,,,C,2016S2R,,,,,G,,,GR,,2014SP,,,,3,,3,PT,0.333333333,4,3.774,,,0,,A.G.ND,,,R,,,,,ND,,,,,,,,,,CAS,63,60,,3,,N,GR,N,,,,,,,,A.MED.ILS
+54999,19,F,IL,Black or African American,,,,NHS,B,Baptist,,,AST,NONE,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.074,,,0,,,A.BA.PSY,,,R,,,,,PSY,,,,,,,,,,CAS,63.5,,,63.5,,N,,Y,NWTK,,,,,,N,A.BA.PSY
+55005,20,M,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,4,,,4,PT,0.333333333,2.691,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,70,,,70,,N,,N,,,,,,,Y,N.BSN.NURS
+55006,20,F,IL,Black or African American,,,,NHS,B,Baptist,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,TR,4,,,4,PT,0.333333333,2.703,,,0,,,N.BSHCL.HCL,,,R,,,,,HCL,,,,,,,,,,CON,55,,,55,,N,,Y,NWBB,,,,,,N,A.BS.BCHEM
+55053,21,M,IN,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.308,,,0,,,A.BS.CHEM,,,R,,,,,CHEM,,,,,,,,,,CAS,61,,,61,,N,,N,,,,,,,N,A.BS.CHEM
+55057,26,M,,Non-resident Alien,Y,Student Visa,CH,,,,,,,,C,2016S2R,,,,,G,,,GR,,2014SS,,FT,,4,,4,PT,0.444444444,3.7,2.82,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,34.5,30.5,,4,,N,GR,N,,,,,,,,A.MS.ICP
+55067,29,M,IN,Non-resident Alien,Y,Student Visa,CH,,,,,,,,C,2016S2R,,,,,G,,,GR,,2014SP,,,,6,,6,PT,0.666666667,,2.086,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,12.5,12.5,,,,N,GR,N,,,,,,,,A.MS.ICP
+55070,24,F,IL,Unreported,,,,,,,,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,FT,,3,,3,PT,0.333333333,,3.94,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,54,54,,,,N,GR,N,,,,,,,,A.MA.CMHC
+55071,28,F,,Non-resident Alien,Y,Student Visa,IZ,,,,,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,FT,,6,,6,PT,0.666666667,,3.858,,,0,,A.MA.ESC,,,R,,,,,ESC,,,,,,,,,,CAS,28.5,28.5,,,,N,GR,N,,,,,,,,A.MA.ESC
+55155,20,F,IL,Black or African American,,,,NHS,B,Baptist,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,2.966,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,70,,,70,,N,,N,,,,,,,N,N.BSN.NURS
+55188,20,M,IL,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,R,2016S2R,,,,,U,,,SR,,2014FA,,FT,4,,,4,PT,0.333333333,3.216,,,0,,,A.BS.MET,A.BA.GEO,,R,,,,,MET,GEO,,,,,,,,,CAS,107,,,107,,N,,N,,,,,,,N,A.BS.MET
+55191,20,F,IL,White,,,,NHS,W,Lutheran - ELCA,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,4,,,4,PT,0.333333333,2.758,,,0,,,A.BS.MET,,,R,,,,,MET,,,,,,,,,,CAS,81,,,81,,N,,N,,,,,,,N,A.BS.MET
+55192,20,M,IL,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,TR,3,,,3,PT,0.25,3.85,,,0,,,E.U.ENGR,,,R,,,,,ENGR,,,,,,,,,,COE,73,,,73,,Y,,N,,,,,,,N,E.U.ENGR
+55204,19,M,IL,White,,,,NHS,W,None,,,,,N,2016S2R,,,,,U,,,SR,,2014FA,,FT,1,,,1,PT,0.083333333,3.898,,,0,,,E.BSCE.CE,,,R,,,,,CE,,,,,,,,,,COE,91,,,91,,Y,,N,,,,,,,N,E.BSCE.CE
+55205,22,M,OH,White,,,,NHS,W,,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,2.569,,,0,,,A.BS.CS,,,R,,,,,CS,,,,,,,,,,CAS,62,,,62,,N,,Y,NMTK,,,,,,N,E.BSEE.EE
+55229,48,F,MI,White,,,,NHS,W,Other,,,DSSAN,4/9/2015,C,2016S2R,,,,,U,,,SR,,2014SS,,TR,8,,,8,PT,0.666666667,3.043,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,169,,,169,,N,ACN,N,,,,,,,Y,N.BSN.NURS
+55237,21,M,IL,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,TR,2,,,2,PT,0.166666667,2.724,,,0,,,E.BSEE.EE,,,R,,,,,EE,CS,,,,,,,,,COE,83,,,83,,N,,N,,,,,,,N,E.U.ENGR
+55267,20,F,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.086,,,0,,,A.BSPE.PE,,,R,,,,,PE,,,,,HBIO,,,,,CAS,77,,,77,,N,,N,,,,,,,Y,N.BSN.NURS
+55292,21,F,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.38,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,73,,,73,,N,,N,,,,,,,Y,N.BSN.NURS
+55294,20,M,IL,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.238,,,0,,,A.BS.MET,,,R,,,,,MET,,,,,GIS,MATH,,,,CAS,64,,,64,,N,,N,,,,,,,N,A.BS.MET
+55299,20,F,IA,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,R,2016S2R,,,,,U,,,JR,,2014SS,,FT,8,,,8,PT,0.666666667,3.416,,,0,,,A.BSED.ED,,,R,,,,,ELED,,,,,MATH,,,,,CAS,70,,,70,,N,,Y,NWBB,,,,,,N,A.BS.MATH*A.BSED.ED
+55310,20,F,IN,Hispanic or Latino,,,,HIS,,Baptist,,,,,N,2016S2R,,,,,U,,,JR,,2014FA,,FT,7,,,7,PT,0.583333333,3.531,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,SPAN,,,,,CON,78.5,,,78.5,,N,,N,,,,,,,Y,N.BSN.NURS
+55312,23,F,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,2.942,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,168,,,168,,N,,N,,,,,,,N,N.BSN.NURS
+55350,19,F,IL,White,,,,NHS,W,Roman Catholic,,,ALLM,NONE,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.945,,,0,,,A.BA.ENGL,,,R,,,,,ENGL,SEED,,,,,,,,,CAS,71,,,71,,Y,,N,,,,,,,N,A.BA.ENGL
+55354,20,F,IN,White,,,,NHS,W,Unknown,,,,,C,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.929,,,0,,,A.BSED.ED,,,R,,,,,ELED,,,,,SPED,,,,,CAS,85,,,85,,N,,N,,,,,,,N,A.BSED.ED
+55364,20,M,IL,White,,,,NHS,W,Christian Science,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,4,,,4,PT,0.333333333,2.564,,,0,,,A.BS.MET,,,R,,,,,MET,,,,,,,,,,CAS,58,,,58,,N,,N,,,,,,,N,A.BS.MET
+55407,20,M,PA,White,,,,NHS,W,Lutheran - Others/Unknown,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.062,,,0,,,A.BS.MATH,,,R,,,,,MATH,SEED,,,,,,,,,CAS,70,,,70,,Y,,Y,NMTK,,,,,,N,A.BS.MATH
+55425,31,M,,Non-resident Alien,Y,Student Visa,IZ,,,,,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,FT,,3,,3,PT,0.333333333,,3.804,,,0,,A.MS.DM,,,R,,,,,DM,,,,,,,,,,CAS,25,25,,,,N,GR,N,,,,,,,,A.MS.DM
+57802,41,F,IN,White,,,,NHS,W,Evangelical,M,,,,C,2016S2R,,,,,G,,,GR,,2016SB2,,PT,,3,,3,PT,0.333333333,,3.5,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,6,6,,,,N,GR,N,,,,,,,,
+55469,20,F,IN,White,,,,NHS,W,Lutheran - ELCA,,,DSS,9/1/2014,C,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.341,,,0,,,A.BA.COMDM,,,R,,,,,COMDM,,,,,WRTP,,,,,CAS,70,,,70,,N,,N,,,,,,,N,A.BA.COMDM
+55475,21,M,IN,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,C,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,1.709,,,0,,,E.BSCE.CE,,,R,,,,,CE,,,,,,,,,,COE,60,,,60,,N,,N,,,,,,,N,E.BSCE.CE
+55479,20,M,OH,White,,,,NHS,W,Lutheran - Mission for Christ,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,4,,,4,PT,0.333333333,1.928,,,0,,,E.BSME.ME,,,R,,,,,ME,,,,,GER,,,,,COE,57,,,57,,N,,Y,NMSW,,,,,,N,E.BSME.ME*A.U.PREENGR
+55505,24,M,MI,White,,,,NHS,W,Baptist,,,ALLM,NONE,R,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,3.013,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,130,,,130,,N,,N,,,,,,,Y,N.BSN.NURS
+55517,20,F,WI,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,2.992,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,64,,,64,,N,,N,,,,,,,N,N.BSN.NURS
+55519,20,M,CA,Hispanic or Latino,,,,HIS,,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,2.942,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,64,,,64,,N,,Y,NMFB,,,,,,N,N.BSN.NURS
+55521,19,F,AZ,Hispanic or Latino,,,,HIS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,7,,,7,PT,0.583333333,2.567,,,0,,,E.BSCE.CE,,,R,,,,,CE,,,,,,,,,,COE,64,,,64,,N,,Y,NWSB,,,,,,N,E.BSCE.CE
+55531,22,M,,Non-resident Alien,Y,,CA,NHS,B,Protestant - Unspecified,,,,,R,2016S2R,,,,,U,,,JR,,2014SS,,FT,6,,,6,PT,0.5,2.411,,,0,,,B.BSBA.IB,,,R,,,,,IB,,,,,,,,,,CBA,74,,,74,,N,,Y,NMBB,,,,,,Y,B.U.UND
+55533,24,F,CO,White,,,,NHS,W,Presbyterian,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.6,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,173,,,173,,N,ACN,N,,,,,,,N,N.BSN.NURS
+55564,27,F,,Non-resident Alien,Y,Student Visa,CH,,,,,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,FT,,0,,0,PT,0,,3.342,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,37,37,,,,N,GR,N,,,,,,,,A.MS.ICP
+55576,21,M,,Non-resident Alien,Y,Student Visa,CH,NHS,A,,,,,,O,2016S2R,,,,,U,,,JR,,2014FA,,TR,3,,,3,PT,0.25,2.506,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,81,,,81,,N,,N,,,,,,,Y,B.BSBA.FIN
+55585,20,F,MI,Black or African American,,,,,B,,,,,,N,2016S2R,,,,,U,,,JR,,2014FA,,FT,7,,,7,PT,0.583333333,3.051,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,59.5,,,59.5,,N,,N,,,,,,,N,N.BSN.NURS
+55594,20,M,IN,American/Alaska Native,,,,NHS,I,,,,,,R,2016S2R,,,,,U,,,SO,,2014FA,,FT,7,,,7,PT,0.583333333,2.013,,,0,,,E.BSEE.EE,,,R,,,,,EE,,,,,PHYS,MATH,,,,COE,53,,,53,,N,,N,,,,,,,Y,E.BSEE.EE
+55599,25,F,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.291,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,227,,,227,,N,ACN,N,,,,,,,N,N.BSN.NURS
+55607,21,F,IN,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2014FA,,TR,3,,,3,PT,0.25,3.264,,,0,,,A.BSW.SOCW,,,R,,,,,SOCW,,,,,,,,,,CAS,100,,,100,,N,,N,,,,,,,N,A.BSW.SOCW
+55621,24,F,IL,White,,,,NHS,W,,S,,,,,2016S2L,,,,,L,,,L2,,2014FL,,FT,,,5,5,PT,0.416666667,,,2.998,,,0,L.JD.LAW,,,R,,,,,LAW,,,,,,,,,,SL,63,,63,,,N,,N,,,,,,,,L.JD.LAW
+55630,20,M,NJ,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,6,,,6,PT,0.5,3.159,,,0,,,A.BSPE.PESM,,,R,,,,,PESM,,,,,FUNB,,,,,CAS,63,,,63,,N,,Y,NMFB,,,,,,N,A.BSPE.PESM
+55660,25,F,IL,Unreported,,,,NHS,,,,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,,,3,,3,PT,0.333333333,,4,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,54,54,,,,N,GR,N,,,,,,,,A.MA.CMHC
+55663,34,M,IN,Non-resident Alien,Y,Student Visa,IZ,,,,,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,FT,,1,,1,PT,0.111111111,,3.673,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,23,23,,,,N,GR,N,,,,,,,,A.G.INTERLINK*A.MS.ITC
+55681,24,F,IN,White,,,,,W,,,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,,,3,,3,PT,0.333333333,,3.98,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,51,51,,,,N,GR,N,,,,,,,,A.MA.CMHC
+55691,29,F,IN,White,,,,NHS,W,Non-Denomination Christian,,,DSS,10/28/2014,C,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,3.354,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,128,,,128,,N,,N,,,,,,,N,N.BSN.NURS
+55696,22,M,,Non-resident Alien,Y,,CA,,B,Other Christian,,,,,C,2016S2R,,,,,U,,,JR,,2014SS,,FT,3,,,3,PT,0.25,2.23,,,0,,,B.BSBA.MKT,,,R,,,,,MKT,,,,,,,,,,CBA,77,,,77,,N,,Y,NMBB,,,,,,,B.BSBA.MKT
+55697,30,M,IN,White,,,,NHS,W,Non-Denomination Christian,M,,,,C,2016S2R,,,,,G,,,GR,,2014FB1,,PT,,3,,3,PT,0.333333333,,3.763,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,24,24,,,,N,GR,N,,,,,,,,B.MBA.BUS
+55706,24,F,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,,,3,,3,PT,0.333333333,,3.98,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,54,54,,,,N,GR,N,,,,,,,,A.MA.CMHC
+55734,25,F,MI,White,,,,NHS,W,,,,,,C,2016S2R,,,,,U,,,SR,,2014SS,,TR,8,,,8,PT,0.666666667,3.266,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,179,,,179,,N,ACN,N,,,,,,,Y,N.BSN.NURS
+55751,26,F,IN,Hispanic or Latino,,,,HIS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,,,3,,3,PT,0.333333333,,3.873,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,54,54,,,,N,GR,N,,,,,,,,A.MA.CMHC
+55756,19,M,,Non-resident Alien,Y,,JM,NHS,B,Presbyterian,,,,,O,2016S2R,,,,,U,,,SO,,2014FA,,FT,3,,,3,PT,0.25,2.695,,,0,,,B.BSBA.MKT,,,R,,,,,MKT,,,,,,,,,,CBA,54,,,54,,N,,Y,NMSO,,,,,,N,B.BSBA.ACC
+55761,23,F,IN,White,,,,NHS,W,Buddhist,,,,,C,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,2.804,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,138,,,138,,N,ACN,N,,,,,,,Y,N.BSN.NURS
+55785,29,M,IN,White,,,,NHS,W,Other Christian,,,,,C,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,3.405,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,127.5,,,127.5,,N,,N,,,,,,V,Y,N.BSN.NURS
+55798,32,F,MN,Black or African American,,,,NHS,B,,,,,,C,2016B32,,,,,G,,,GR,,2014B22,,,,3,,3,PT,0.333333333,,3.555,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,33,33,,,,N,BSK,N,,,,,,,,A.MS.HMP
+55804,37,M,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,3.11,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,127,,,127,,N,,N,,,,,,V,,N.BSN.NURS
+55805,39,M,IN,Black or African American,,,,NHS,B,Non-Denomination Christian,,,,,C,2016S2R,,,,,G,,,GR,,2014FB1,,PT,,3,,3,PT,0.333333333,,3.791,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,33,33,,,,N,GR,N,,,,,,,,B.MBA.BUS
+55844,21,F,MI,White,,,,NHS,W,Other Christian,,,,,R,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,3.257,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,143,,,143,,N,,N,,,,,,,Y,N.BSN.NURS
+55879,27,F,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,N,2016S2R,,,,,U,,,SR,,2014FA,,TR,3,,,3,PT,0.25,2.953,,,0,,,A.BA.COMDM,,,R,,,,,COMDM,,,,,,,,,,CAS,125.5,,,125.5,,N,,N,,,,,,,Y,A.BA.COMDM
+55901,26,F,TX,White,,,,NHS,W,,,,,,C,2016B32,,,,,G,,,GR,,2014B31,,,,3,,3,PT,0.333333333,,3.282,,,0,,A.MS.HCA,,,R,,,,,HCA,,,,,,,,,,CAS,30,30,,,,N,BSK,N,,,,,,,,A.MS.HMP*A.MS.HCA
+55904,27,M,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2014FB1,,PT,,3,,3,PT,0.333333333,,3.755,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,33,33,,,,N,GR,N,,,,,,,,B.MBA.BUS
+55905,20,M,OH,White,,,,NHS,W,Roman Catholic,,,,,O,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,2.398,,,0,,,B.BSBA.MKT,,,R,,,,,MKT,,,,,,,,,,CBA,60,,,60,,N,,Y,NMTE,,,,,,N,A.BS.EXPL
+55906,38,M,IN,Unreported,,,,NHS,,,,,,,C,2016S2R,,,,,G,,,GR,,2014FB1,,PT,,3,,3,PT,0.333333333,,3.227,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,33,33,,,,N,GR,N,,,,,,,,B.MBA.BUS
+55909,31,M,IN,White,,,IZ,U,W,,,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,FT,,3,,3,PT,0.333333333,,3.945,,,0,,A.MA.TESOL,,,R,,,,,TESOL,,,,,,,,,,CAS,33,33,,,,N,GR,N,,,,,,,,A.MA.TESOL
+55921,21,M,,Non-resident Alien,Y,,MG,,,,,,,,R,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,3.54,,,0,,,A.BS.PHYS,,,R,,,,,PHYS,CS,,,,,,,,,CAS,72,,,72,,N,,N,,,,,,,,A.BS.PHYS
+55937,24,M,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,2.88,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,150,,,150,,N,,N,,,,,,,Y,N.BSN.NURS
+55957,26,M,IN,Non-resident Alien,Y,Student Visa,CH,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2014FA,,,,3,,3,PT,0.333333333,4,3.139,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,32.5,28.5,,4,,N,GR,N,,,,,,,,A.MS.IEF*DEFAULT.UNDERGRAD
+55967,21,M,,Non-resident Alien,Y,,JM,,B,Other Christian,,,,,O,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,2.854,,,0,,,A.BA.COMM,,,R,,,,,COMM,,,,,,,,,,CAS,58,,,58,,N,,Y,NMSO,,,,,,,A.BA.COMM
+55975,24,M,,Non-resident Alien,Y,Student Visa,CH,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,,,6,,6,PT,0.666666667,,2.66,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,16,16,,,,N,GR,N,,,,,,,,A.MS.ICP
+55990,32,F,IN,White,,,,NHS,W,Methodist,,,,,C,2016S2R,,,,,U,,,SR,,2015SP,,TR,8,,,8,PT,0.666666667,3.07,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,127.5,,,127.5,,N,ACN,N,,,,,,,N,N.BSN.NURS
+55992,26,F,IN,White,,,,NHS,W,Evangelical,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.204,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,232,,,232,,N,ACN,N,,,,,,,N,N.BSN.NURS
+55998,23,F,FL,White,,,,NHS,W,United Church of Christ,,,AST,NONE,R,2016S2R,,,,,U,,,SR,,2014FA,,TR,8,,,8,PT,0.666666667,3.076,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,133,,,133,,N,,N,,,,,,,N,N.BSN.NURS
+56031,24,F,MI,White,,,,NHS,W,Methodist,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.218,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,186,,,186,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56033,25,F,MI,Black or African American,,,,NHS,B,,,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,,,3,,3,PT,0.333333333,,3.58,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,54,54,,,,N,GR,N,,,,,,,,A.MA.CMHC
+56034,23,F,IN,Unreported,,,,NHS,,,,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,,,3,,3,PT,0.333333333,,3.94,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,54,54,,,,N,GR,N,,,,,,,,A.MA.CMHC
+56060,19,F,,Non-resident Alien,Y,Student Visa,CH,NHS,A,None,,,,,R,2016S2R,,,,,U,,,FR,,2016SP,,FT,3,,,3,PT,0.25,2.424,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,17,,,17,,N,,N,,,,,,,N,
+56065,27,M,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2014FA,,PT,,6,,6,PT,0.666666667,,4,,,0,,A.MALS.THEO,,,R,,,,,THEO,,,,,,,,,,CAS,31,31,,,,N,GR,N,,,,,,,,A.MALS.THEO
+56075,24,M,IN,Hispanic or Latino,,,,HIS,,,S,,,,,2016S2L,,,,,L,,,L2,,2014FL,,FT,,,5,5,PT,0.416666667,,,2.444,,,0,L.JD.LAW,,,R,,,,,LAW,,,,,,,,,,SL,61,,61,,,N,,N,,,,,,,,L.JD.LAW
+56079,28,M,MI,White,,,,NHS,W,None,M,,,,C,2016S2R,,,,,G,,,GR,,2015S1R,,PT,,3,,3,PT,0.333333333,,3.667,2.959,,0,,B.MBA.JD.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,78,18,60,,,N,DDG,N,,,,,,,,B.MBA.JD.BUS*L.JD.LAW.MBA
+56092,35,M,MD,White,,,,NHS,W,,,,DSSAD*DSSAN,07/14/15*07/14/15,C,2016B32,,,,,G,,,GR,,2014B32,,,,3,,3,PT,0.333333333,,4,,,0,,A.MS.HCA,,,R,,,,,HCA,,,,,,,,,,CAS,30,30,,,,N,BSK,N,,,,,,,,A.MS.HMP*A.MS.HCA
+56113,36,M,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2015FB1,,PT,,3,,3,PT,0.333333333,,3.28,2.745,,0,,B.MBA.JD.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,75,15,60,,,N,DDG,N,,,,,,,,B.MBA.JD.BUS*L.JD.LAW.MBA
+56117,68,M,IN,White,,,,NHS,W,Other Christian,D,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,6,,6,PT,0.666666667,,3.617,1.08,,0,,A.MALS.IND,,,R,,,,,IND,,,,,,,,,,CAS,30,18,12,,,N,GR,N,,,,,,,,A.G.ND
+56130,22,M,IN,Black or African American,,,,NHS,B,,,,,,C,2016S2R,,,,,U,,,SR,,2014FA,,TR,6,,,6,PT,0.5,2.607,,,0,,,B.BSBA.MKT,,,R,,,,,MKT,,,,,,,,,,CBA,116,,,116,,N,,Y,NMBB,,,,,,N,B.BSBA.MKT
+56131,31,F,IN,Unreported,,,,,,,,,,,C,2016S2R,,,,,U,,,JR,,2014FA,,CA,7,,,7,PT,0.583333333,3.344,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,66.8,,,66.8,,N,ACN,N,,,,,,,,A.AS.GSCI
+56139,23,F,,Non-resident Alien,Y,Student Visa,CH,U,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.596,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,25,25,,,,N,GR,N,,,,,,,,A.MS.IEF
+56140,32,F,,Non-resident Alien,Y,Student Visa,IZ,,,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.833,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,21,21,,,,N,GR,N,,,,,,,,A.MS.ITM
+56150,22,F,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,JR,,2015FA,,TR,4,,,4,PT,0.333333333,2.736,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,82,,,82,,N,,N,,,,,,,Y,N.BSN.NURS
+56154,23,M,MI,White,,,,NHS,W,Non-Denomination Christian,S,,,,C,2016S2R,,,,,G,,,GR,,2015S1R,,PT,,3,,3,PT,0.333333333,,3.75,3.209,,0,,B.MBA.JD.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,78,12,66,,,N,DDG,N,,,,,,,,B.MBA.JD.BUS*L.JD.LAW.MBA
+56167,21,M,CA,Two or More Races,,,,NHS,P*W,Christian Reformed,,,,,O,2016S2R,,,,,U,,,JR,,2014FA,,FT,3,,,3,PT,0.25,2.985,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,67,,,67,,N,,Y,NMBA,,,,,,N,B.BSBA.ACC
+56181,24,F,MI,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.366,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,192,,,192,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56182,22,F,MI,White,,,,NHS,W,Baptist,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.041,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,129,,,129,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56187,27,F,MI,White,,,,NHS,W,Presbyterian,,,,,R,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.824,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,229,,,229,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56189,21,M,,Two or More Races,,,,NHS,B*W,Prefer not to answer,,,,,O,2016S2R,,,,,U,,,SR,,2014FA,,TR,3,,,3,PT,0.25,2.189,,,0,,,A.BA.COMM,,,R,,,,,COMM,,,,,,,,,,CAS,109,,,109,,N,,Y,NMBB,,,,,,N,A.BA.COMM
+56194,35,F,FL,White,,,,NHS,W,,,,,,C,2016B32,,,,,G,,,GR,,2014B11,,FT,,3,,3,PT,0.333333333,,3.7,,,0,,A.MS.HCA,,,R,,,,,HCA,,,,,,,,,,CAS,33,33,,,,N,BSK,N,,,,,,,,A.MS.HMP*A.MS.HCA
+56201,23,F,MI,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.82,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,183,,,183,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56205,22,F,MI,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,2.589,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,138,,,138,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56209,30,F,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.08,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,208,,,208,,N,ACN,N,,,,,,,Y,N.BSN.NURS
+56228,27,F,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.441,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,195,,,195,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56230,28,F,IN,Two or More Races,,,,,I*B*W,,,,,,C,2016S2R,,,,,G,,,GR,,2015SP,,PT,,3,,3,PT,0.333333333,,3.41,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,38,38,,,,N,GR,N,,,,,,,,A.MS.ICP
+56231,24,F,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.204,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,194.5,,,194.5,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56242,33,F,IL,White,,,,NHS,W,,,,,,O,2016B32,,,,,G,,,GR,,2014B12,,FT,,6,,6,PT,0.666666667,,3.857,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,21,21,,,,N,BSK,N,,,,,,,,A.MS.HMP
+56256,19,F,IN,White,,,,NHS,W,Christian Reformed,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,FT,4,,,4,PT,0.333333333,2.877,,,0,,,A.BS.MET,,,R,,,,,MET,,,,,,,,,,CAS,56,,,56,,N,,N,,,,,,,N,A.BS.MET
+56264,19,F,MI,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,FT,6,,,6,PT,0.5,3.878,,,0,,,B.BSBA.MGT,A.BSPE.PESM,,R,,,,,MGT,PESM,,,,,,,,,CBA,65,,,65,,N,,Y,NWVB,,,,,,N,B.U.UND
+57942,19,M,IN,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,C,2016S2R,,,,,U,,,SO,,2016SS,,TR,3,,,3,PT,0.25,0,,,0,,,E.BSCE.CE,,,R,,,,,CE,,,,,,,,,,COE,35,,,35,,N,,N,,,,,,,N,
+56284,19,F,IL,White,,,,NHS,W,,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,2.787,,,0,,,A.BA.POLS,,,R,,,,,POLS,,,,,,,,,,CAS,30,,,30,,N,,N,,,,,,,Y,A.BA.POLS
+56290,21,F,IN,White,,,,NHS,W,Baptist,,,,,C,2016S2R,,,,,U,,,SR,,2015SP,,TR,6,,,6,PT,0.5,2.824,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,90,,,90,,N,ACN,N,,,,,,,Y,N.BSN.NURS
+56313,18,M,WI,Asian,,,,NHS,A,Lutheran - Missouri Synod,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,3.774,,,0,,,N.BS.HS,,,R,,,,,HS,,,,,,,,,,CON,40,,,40,,N,,N,,,,,,,N,N.BS.HS
+56321,27,M,IL,Non-resident Alien,Y,,IN,,,,,,,,C,2016S2R,,,,,G,,,GR,,2015SP,,FT,,2,,2,PT,0.222222222,,3.553,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,30,30,,,,N,GR,N,,,,,,,,A.MS.ITC
+56326,18,M,IL,Two or More Races,,,,NHS,I*W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,2.304,,,0,,,E.BSME.ME,,,R,,,,,ME,,,,,,,,,,COE,28,,,28,,N,,N,,,,,,,N,E.U.ENGR
+56328,24,M,IN,Non-resident Alien,Y,Student Visa,CH,,,,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.143,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,22.5,22.5,,,,N,GR,N,,,,,,,,A.MS.ICP
+56347,38,M,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2014FB2,,PT,,3,,3,PT,0.333333333,,4,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,24,24,,,,N,GR,N,,,,,,,,B.MBA.BUS
+56361,19,F,IN,Black or African American,,,,NHS,B,Baptist,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,1,,,1,PT,0.083333333,3.766,,,0,,,A.BS.ACRS,,,R,,,,,ACRS,,,,,,,,,,CAS,32,,,32,,N,PSP,N,,,,,,,N,A.BS.ACRS
+56365,19,F,IN,White,,,,NHS,W,Orthodox,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,FT,3,,,3,PT,0.25,3.206,,,0,,,A.BA.POLS,,,R,,,,,POLS,,,,,,,,,,CAS,57,,,57,,N,,N,,,,,,,N,A.BA.POLS
+56371,19,M,IL,White,,,,NHS,W,Baptist,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,2.397,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,32,,,32,,N,,N,,,,,,,N,N.BSN.NURS
+56395,18,M,IL,Hispanic or Latino,,,,HIS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,4,,,4,PT,0.333333333,2.815,,,0,,,E.BSME.ME,,,R,,,,,ME,,,,,,,,,,COE,33,,,33,,N,,N,,,,,,,N,A.U.PREENGR
+56417,19,F,MI,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,3.746,,,0,,,A.BSED.ED,,,R,,,,,ELED,,,,,SPED,,,,,CAS,28,,,28,,N,,Y,NWVB,,,,,,N,A.BA.EXPL
+56452,19,M,IN,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,3.241,,,0,,,E.BSME.ME,,,R,,,,,ME,,,,,,,,,,COE,34,,,34,,N,,Y,NMFB,,,,,,N,A.U.PREENGR
+56457,26,M,IN,Non-resident Alien,Y,,IN,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,,,2,,2,PT,0.222222222,,3.633,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,33,33,,,,N,GR,N,,,,,,,,A.MS.ITM
+56459,23,M,IN,Non-resident Alien,Y,,IN,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,,,2,,2,PT,0.222222222,,3.483,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,32,32,,,,N,GR,N,,,,,,,,A.MS.ITC
+56464,22,F,IN,White,,,,NHS,W,Lutheran - ELCA,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.2,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,138,,,138,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56467,25,F,MI,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.211,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,206,,,206,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56469,23,M,CO,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2015FB1,,FT,,6,,6,PT,0.666666667,,3.84,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,30,30,,,,N,GR,N,,,,,,,,B.MBA.BUS
+56483,19,F,MN,White,,,,,W,,,,,,R,2016S2R,,,,,U,,,SO,,2015SS,,FT,6,,,6,PT,0.5,2.897,,,0,,,B.U.UND,,,R,,,,,BUND,,,,,,,,,,CBA,39,,,39,,N,,Y,NWBB,,,,,,N,B.U.UND
+56487,19,F,IL,White,,,,NHS,W,Lutheran - ELCA,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,3.894,,,0,,,A.BSED.ED,,,R,,,,,ELED,,,,,SPAN,,,,,CAS,38,,,38,,N,,N,,,,,,,N,A.BSED.ED
+56493,19,F,IL,Black or African American,,,,NHS,B,,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,3.021,,,0,,,A.BA.SOCC,,,R,,,,,SOCC,,,,,,,,,,CAS,35,,,35,,N,,N,,,,,,,N,A.BA.SOCC
+56498,25,F,MI,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.366,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,192,,,192,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56513,22,M,,Non-resident Alien,Y,,IN,NHS,A,Islam (Muslim),,,,,C,2016S2R,,,,,G,,,GR,,2015SS,,FT,,1,,1,PT,0.111111111,,3.917,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,24,24,,,,N,GR,N,,,,,,,,A.MS.ITM
+56517,25,M,,Non-resident Alien,Y,Student Visa,IN,,,,,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,,,2,,2,PT,0.222222222,,3.509,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,33,33,,,,N,GR,N,,,,,,,,A.MS.ITC
+56523,54,F,NC,,,,,U,U,,,,,,O,2016B32,,,,,G,,,GR,,2014B12,,,,6,,6,PT,0.666666667,,3.856,,,0,,A.MS.HCA,,,R,,,,,HCA,,,,,,,,,,CAS,27,27,,,,N,BSK,N,,,,,,,,A.MS.HMP*A.MS.HCA
+56527,23,F,TX,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.45,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,174.4,,,174.4,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56536,19,F,IL,Hispanic or Latino,,,,HIS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,4,,,4,PT,0.333333333,2.397,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,31,,,31,,N,,N,,,,,,,N,N.BSN.NURS
+56547,47,F,IN,White,,,,NHS,W,,,,,,C,2016B32,,,,,G,,,GR,,2014B12,,FT,,3,,3,PT,0.333333333,,3.763,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,24,24,,,,N,BSK,N,,,,,,,,A.MS.HMP
+56549,19,M,IN,White,,,,NHS,W,None,,,,,C,2016S2R,,,,,U,,,SO,,2015FA,,FT,6,,,6,PT,0.5,3.441,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,32,,,32,,N,,N,,,,,,,Y,N.BSN.NURS
+56556,19,F,IN,White,,,,NHS,W,Orthodox,,,,,C,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,3.184,,,0,,,A.BSW.SOCW,A.BA.POLS,,R,,,,,SOCW,POLS,,,,,,,,,CAS,29,,,29,,N,PSP,N,,,,,,,Y,B.U.UND
+56557,26,M,,Non-resident Alien,Y,,IN,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,,,3,,3,PT,0.333333333,,3.562,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,28,28,,,,N,GR,N,,,,,,,,A.MS.ITC
+56578,24,M,IL,Non-resident Alien,Y,,IN,,,,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,1,,1,PT,0.111111111,,3.589,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,18,18,,,,N,GR,N,,,,,,,,A.MS.ITM
+56586,19,F,IN,Two or More Races,,,,NHS,B*W,Protestant - Unspecified,,,,,C,2016S2R,,,,,U,,,SO,,2015FA,,FT,1,,,1,PT,0.083333333,3.317,,,0,,,N.BS.HS,,,R,,,,,HS,,,,,,,,,,CON,30,,,30,,N,,N,,,,,,,N,N.BS.HS
+56611,50,M,IL,Hawaiian/Pacific Islander,,,,NHS,P,Roman Catholic,,,,,C,2016B32,,,,,G,,,GR,,2014B12,,FT,,3,,3,PT,0.333333333,,3.94,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,15,15,,,,N,BSK,N,,,,,,,,A.MS.HMP
+56628,19,F,IN,White,,,,NHS,W,Roman Catholic,,,ALLM*DSS,NONE*09/04/15,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,2.775,,,0,,,B.BSBA.ACC,,,R,,,,,ACC,,,,,,,,,,CBA,39,,,39,,N,,N,,,,,,,N,B.BSBA.ACC
+56648,24,M,IL,Non-resident Alien,Y,,IN,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,,,4,,4,PT,0.444444444,,3.633,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,30,30,,,,N,GR,N,,,,,,,,A.MS.ITC
+56649,23,M,,Non-resident Alien,Y,,IN,NHS,A,Islam (Muslim),,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,FT,,0,,0,PT,0,,3.417,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,18,18,,,,N,GR,N,,,,,,,Y,A.MS.ITC
+56652,19,F,IN,White,,,,NHS,W,Baptist,,,,,C,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,3.681,,,0,,,A.BA.MUS,,,R,,,,,MUS,,,,,COMPR,,,,,CAS,37,,,37,,N,,N,,,,,,,N,A.BME.MUED
+56661,19,M,IN,White,,,,NHS,W,,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,2.276,,,0,,,A.U.PREENGR,,,R,,,,,PCOE,,,,,,,,,,CAS,32,,,32,,N,,N,,,,,,,N,A.U.PREENGR
+56664,27,F,MI,Asian,,,,NHS,A,Lutheran - Missouri Synod,,,ALLM,NONE,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.414,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,215,,,215,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56665,24,F,MN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.836,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,175,,,175,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56678,19,F,IN,Black or African American,,,,NHS,B,Orthodox,,,,,C,2016S2R,,,,,U,,,JR,,2015FA,,FT,3,,,3,PT,0.25,3.824,,,0,,,N.BS.HS,,,R,,,,,HS,,,,,,,,,,CON,68,,,68,,N,,N,,,,,,,N,N.BS.HS
+56681,19,M,IN,White,,,,NHS,W,Orthodox,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,1,,,1,PT,0.083333333,2.431,,,0,,,E.BSME.ME,,,R,,,,,ME,GER,,,,,,,,,COE,35,,,35,,N,,N,,,,,,,N,E.U.ENGR
+56694,19,M,IN,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,FT,3,,,3,PT,0.25,3.925,,,0,,,E.BSME.ME,,,R,,,,,ME,HUM,,,,MATH,BE,,,,COE,59,,,59,,Y,PSP,N,,,,,,,N,E.U.ENGR
+56702,19,F,IL,Asian,,,,NHS,A,Christian Science,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,3.028,,,0,,,B.BSBA.IB,,,R,,,,,IB,,,,,,,,,,CBA,33,,,33,,N,,N,,,,,,,Y,B.BSBA.IB
+56711,25,M,,Non-resident Alien,Y,,CH,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,FT,,3,,3,PT,0.333333333,,3.145,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,38,38,,,,N,GR,N,,,,,,,,A.MS.ICP
+56712,25,M,,Non-resident Alien,Y,Student Visa,CH,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,FT,,3,,3,PT,0.333333333,4,3.284,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,21.5,18.5,,3,,N,GR,N,,,,,,,,A.MS.IEF
+56714,26,M,,Non-resident Alien,Y,,CH,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,FT,,3,,3,PT,0.333333333,,3.289,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,32,32,,,,N,GR,N,,,,,,,,A.MS.ICP
+56715,24,M,,Non-resident Alien,Y,Student Visa,CH,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015SP,,FT,,3,,3,PT,0.333333333,,2.92,,,0,,A.MS.DM,,,R,,,,,DM,,,,,,,,,,CAS,18,18,,,,N,GR,N,,,,,,,,A.MS.ICP
+56722,18,F,IL,White,,,,NHS,W,,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,6,,,6,PT,0.5,3.657,,,0,,,B.U.UND,,,R,,,,,BUND,,,,,,,,,,CBA,35,,,35,,N,,N,,,,,,,N,A.BA.EXPL
+56724,23,F,MI,White,,,,NHS,W,Other Christian,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.507,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,194,,,194,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56747,19,M,IN,White,,,,NHS,W,,,,,,R,2016S2R,,,,,U,,,SO,,2015SS,,FT,6,,,6,PT,0.5,3.103,,,0,,,A.BA.COMM,,,R,,,,,COMM,,,,,,,,,,CAS,36,,,36,,N,,Y,NMBB,,,,,,N,A.BA.EXPL*A.BA.COMM
+56753,19,M,IN,White,,,,NHS,W,None,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,FT,1,,,1,PT,0.083333333,3.137,,,0,,,E.BSME.ME,,,R,,,,,ME,GER,,,,,,,,,COE,58,,,58,,Y,,N,,,,,,,N,E.U.ENGR
+56758,19,F,OH,White,,,,NHS,W,Lutheran - Missouri Synod,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,4,,,4,PT,0.333333333,3.656,,,0,,,A.BS.MATH,,,R,,,,,MATH,SEED,,,,GER,,,,,CAS,55,,,55,,N,,N,,,,,,,N,A.BS.MET
+56796,19,F,IN,White,,,,NHS,W,Methodist,,,,,R,2016S2R,,,,,U,,,SO,,2015SS,,FT,6,,,6,PT,0.5,2.944,,,0,,,A.BS.BIO.CHEM,,,R,,,,,BIO,CHEM,,,,,,,,,CAS,34,,,34,,N,,Y,NWBB,,,,,,N,A.BS.BIO.CHEM
+56819,22,M,IN,Hispanic or Latino,,,,HIS,B*W,Unknown,,,,,C,2016S2R,,,,,U,,,SR,,2015SP,,TR,3,,,3,PT,0.25,3.65,,,0,,,A.BSPE.PEXS,,,R,,,,,PEXS,,,,,HBIO,,,,,CAS,119,,,119,,N,,Y,NMSO,,,,,,N,A.BSPE.PEXS
+56835,24,M,IL,White,,,,NHS,W,Christian Reformed,,,,,C,2016S2R,,,,,G,,,GR,,2015SP,,PT,,3,,3,PT,0.333333333,,3.8,,,0,,A.MHA.HADM,,,R,,,,,HADM,,,,,,,,,,CON,21,21,,,,N,GR,N,,,,,,,,A.MHA.HADM
+56841,23,F,WI,Hispanic or Latino,,,,HIS,W,Lutheran - Missouri Synod,,,AST,NONE,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,2.87,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,182,,,182,,N,ACN,N,,,,,,,Y,N.BSN.NURS
+57803,23,F,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.65,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,161,,,161,,N,ACN,N,,,,,,,Y,
+56897,21,M,IL,White,,,,NHS,W,Unknown,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,TR,3,,,3,PT,0.25,3.142,,,0,,,B.U.UND,,,R,,,,,BUND,,,,,,,,,,CBA,84,,,84,,N,,N,,,,,,,,B.U.UND
+56932,23,M,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,U,,,SR,,2015FA,,TR,7,,,7,PT,0.583333333,3.55,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,125.5,,,125.5,,N,,N,,,,,,,N,N.BSN.NURS
+56935,19,M,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,2.363,,,0,,,E.BSME.ME,,,R,,,,,ME,,,,,BE,,,,,COE,28,,,28,,N,,Y,NMTK,,,,,,N,E.U.ENGR
+56939,29,F,TX,White,,,,NHS,W,,,,,,C,2016B32,,,,,G,,,GR,,2015B21,,FT,,6,,6,PT,0.666666667,,4,,,0,,A.MS.HCA,,,R,,,,,HCA,,,,,,,,,,CAS,27,27,,,,N,BSK,N,,,,,,,,A.MS.HMP*A.MS.HCA
+56950,24,F,,Non-resident Alien,Y,,IN,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015SS,,,,3,,3,PT,0.333333333,,3.91,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,30,30,,,,N,GR,N,,,,,,,,A.MS.ITC
+56957,31,F,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,192,,,192,,N,ACN,N,,,,,,,N,N.BSN.NURS
+56968,19,F,IL,Hispanic or Latino,,,,HIS,,Other Christian,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,6,,,6,PT,0.5,2.586,,,0,,,A.BS.EXPL,,,R,,,,,EXPL,,,,,,,,,,CAS,32,,,32,,N,,N,,,,,,,Y,A.BS.EXPL
+56989,24,F,MI,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,2.964,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,181,,,181,,N,ACN,N,,,,,,,Y,N.BSN.NURS
+56998,29,F,NC,White,,,,NHS,W,,,,,,C,2016B32,,,,,G,,,GR,,2015B21,,FT,,3,,3,PT,0.333333333,,3.763,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,24,24,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57002,19,M,OH,Black or African American,,,,NHS,B,Baptist,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,1.78,,,0,,,B.BSBA.IB,,,R,,,,,IB,,,,,,,,,,CBA,40,,,40,,N,,Y,NMFB,,,,,,N,B.BSBA.IB
+57003,50,F,ME,White,,,,NHS,W,,,,,,C,2016B32,,,,,G,,,GR,,2015B21,,,,6,,6,PT,0.666666667,,3.963,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,24,24,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57007,25,M,,Non-resident Alien,Y,,IN,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015SS,,FT,,2,,2,PT,0.222222222,,3.863,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,32,32,,,,N,GR,N,,,,,,,,A.MS.ITC
+57008,23,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2015SS,,FT,,2,,2,PT,0.222222222,,3.676,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,29,29,,,,N,GR,N,,,,,,,,A.MS.ITC
+57011,23,M,OH,Black or African American,,,JM,NHS,B,,,,,,R,2016S2R,,,,,U,,,SR,,2015FA,,TR,7,,,7,PT,0.583333333,2.479,,,0,,,A.BA.PSY,,,R,,,,,PSY,,,,,COMM,,,,,CAS,90,,,90,,N,,Y,NMSO,,,,,,Y,N.BSN.NURS
+57016,23,M,,Non-resident Alien,Y,,IN,,,,,,,,C,2016S2R,,,,,G,,,GR,,2015SS,,FT,,2,,2,PT,0.222222222,,3.747,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,32,32,,,,N,GR,N,,,,,,,,A.MS.ITC
+57029,25,M,,Non-resident Alien,Y,,IN,NHS,A,None,,,,,C,2016S2R,,,,,G,,,GR,,2015SS,,FT,,5,,5,PT,0.555555556,,3.948,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,30,30,,,,N,GR,N,,,,,,,,A.MS.ITC
+57804,23,M,MI,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,JR,,2016SS,,TR,7,,,7,PT,0.583333333,3.5,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,81,,,81,,N,ACN,N,,,,,,,N,
+57040,26,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.961,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,23,23,,,,N,GR,N,,,,,,,,A.MS.ITM
+57045,21,M,IL,Hispanic or Latino,,,,HIS,W,Non-Denomination Christian,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,TR,3,,,3,PT,0.25,3.556,,,0,,,A.BA.THEO,,,R,,,,,THEO,,,,,,,,,,CAS,78,,,78,,N,,N,,,,,,,Y,A.BA.THEO
+57063,35,F,IN,White,,,,NHS,W,,,,,,C,2016B32,,,,,G,,,GR,,2015B21,,,,6,,6,PT,0.666666667,,3.744,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,27,27,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57064,29,F,FL,Hawaiian/Pacific Islander,,,,NHS,P,,,,,,C,2016B32,,,,,G,,,GR,,2015SB1,,,,3,,3,PT,0.333333333,,3.333,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,9,9,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57065,47,M,TX,White,,,,NHS,W,,,,,,C,2016B32,,,,,G,,,GR,,2015B21,,,,3,,3,PT,0.333333333,,3.963,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,24,24,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57067,19,M,IN,White,,,,NHS,W,Methodist,,,,,R,2016S2R,,,,,U,,,FR,,2015FA,,FT,3,,,3,PT,0.25,2.021,,,0,,,A.BA.PSY,,,R,,,,,PSY,,,,,PESM,,,,,CAS,21.5,,,21.5,,N,,N,,,,,,,N,A.BA.PSY
+57076,23,M,OH,Black or African American,,,GV,NHS,B,Islam (Muslim),,,,,R,2016S2R,,,,,U,,,SR,,2015FA,,TR,6,,,6,PT,0.5,2.903,,,0,,,B.BSBA.MGT,,,R,,,,,MGT,,,,,,,,,,CBA,133,,,133,,N,,Y,NMSO,,,,,,Y,B.BSBA.MGT
+57086,24,F,IL,Hispanic or Latino,,,,HIS,,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015FA,,TR,4,,,4,PT,0.333333333,3.28,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,140,,,140,,N,,N,,,,,,,,N.BSN.NURS
+57092,18,M,,White,,,,NHS,W,Mennonite,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,4,,,4,PT,0.333333333,3.739,,,0,,,E.BSME.ME,,,R,,,,,ME,,,,,MUS,,,,,COE,39.5,,,39.5,,Y,,N,,,,,,,N,E.U.ENGR
+57100,25,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2015SS,,FT,,3,,3,PT,0.333333333,,3.393,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,27,27,,,,N,GR,N,,,,,,,,A.MS.ITC
+57106,22,F,IL,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.455,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,179,,,179,,N,ACN,N,,,,,,,N,N.BSN.NURS
+57109,23,F,MI,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.082,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,187,,,187,,N,ACN,N,,,,,,,N,N.BSN.NURS
+57116,18,M,OH,White,,,,NHS,W,Seventh-Day Adventist,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,4,,,4,PT,0.333333333,3.003,,,0,,,E.BSME.ME,,,R,,,,,ME,,,,,BE,,,,,COE,34,,,34,,N,,Y,NMFB,,,,,,N,E.U.ENGR
+57119,19,F,IN,Hispanic or Latino,,,,HIS,,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,FT,4,,,4,PT,0.333333333,2.334,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,SPAN,,,,,CON,39,,,39,,N,,N,,,,,,,Y,N.BSN.NURS
+57127,24,M,,Non-resident Alien,Y,,IN,NHS,A,Unknown,,,,,R,2016S2R,,,,,G,,,GR,,2015SS,,FT,,3,,3,PT,0.333333333,,4,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,31,31,,,,N,GR,N,,,,,,,,A.MS.ITC
+57128,23,M,,Non-resident Alien,Y,,TW,NHS,A,Unknown,,,,,R,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.152,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,224,,,224,,N,,N,,,,,,,N,N.BSN.NURS
+57129,23,M,,Non-resident Alien,Y,,IN,NHS,,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,,,2,,2,PT,0.222222222,,3.955,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,21,21,,,,N,GR,N,,,,,,,,A.MS.ITC
+57133,24,F,,Non-resident Alien,Y,,IN,,,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,,,3,,3,PT,0.333333333,,3.621,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,25,25,,,,N,GR,N,,,,,,,,A.MS.ITM
+57154,22,M,,Non-resident Alien,Y,,IN,NHS,A,Islam (Muslim),,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,1,,1,PT,0.111111111,,3.761,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,18,18,,,,N,GR,N,,,,,,,,A.MS.ITC
+57158,35,M,,Unreported,,,,,,,,,,,C,2016B32,,,,,G,,,GR,,2015B22,,,,3,,3,PT,0.333333333,,3.744,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,27,27,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57160,24,M,,Non-resident Alien,Y,,IN,NHS,A,Other,,,,,R,2016S2R,,,,,G,,,GR,,2015SS,,FT,,2,,2,PT,0.222222222,,3.521,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,29,29,,,,N,GR,N,,,,,,,,A.MS.ITC
+57165,23,F,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2015SS,,FT,,2,,2,PT,0.222222222,,3.523,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,30,30,,,,N,GR,N,,,,,,,,A.MS.ITM
+57171,18,F,IN,White,,,,NHS,W,Unknown,,,,,C,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,2.396,,,0,,,A.BA.SOCC,,,R,,,,,SOCC,,,,,,,,,,CAS,28,,,28,,N,,N,,,,,,,Y,A.BA.POLS
+57172,31,F,IN,White,,,,NHS,W,Protestant - Unspecified,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.93,,,0,,A.MA.CMHC,A.GC.LCAC,,R,,,,,CMHC,ND,,,,,,,,,CAS,39,39,,,,N,GR,N,,,,,,,,A.MA.CMHC
+57173,25,M,,Non-resident Alien,Y,,IN,,,,,,,,R,2016S2R,,,,,G,,,GR,,2015SS,,,,2,,2,PT,0.222222222,,3.509,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,32,32,,,,N,GR,N,,,,,,,,A.MS.ITM
+57191,55,F,IL,Black or African American,,,,NHS,B,,,,,,,2016S2L,,,,,L,,,L1,,2015FL,,FT,,,5,5,PT,0.416666667,,,2.517,,,0,L.JD.LAW,,,R,,,,,LAW,,,,,,,,,,SL,30,,30,,,N,,N,,,,,,,,L.JD.LAW
+57199,20,M,IL,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,TR,3,,,3,PT,0.25,2.809,,,0,,,B.BSBA.MKT,,,R,,,,,MKT,,,,,SPAN,,,,,CBA,73,,,73,,N,,N,,,,,,,N,B.BSBA.IB
+57200,22,F,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.813,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,25,25,,,,N,GR,N,,,,,,,,A.MS.ITM
+57206,27,F,IN,Hispanic or Latino,,,,HIS,,,,,,,C,2016S2R,,,,,U,,,JR,,2015FA,,TR,3,,,3,PT,0.25,3.077,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,68,,,68,,N,,N,,,,,,,Y,N.BSN.NURS
+57207,24,M,IL,White,,,,NHS,W,,,,ALLF,NONE,R,2016S2R,,,,,U,,,SR,,2015FA,,TR,3,,,3,PT,0.25,3.361,,,0,,,E.BSCE.CE,,,R,,,,,CE,,,,,,,,,,COE,163,,,163,,N,,N,,,,,,,N,E.U.ENGR
+57211,20,F,IL,Hispanic or Latino,,,,HIS,,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,TR,4,,,4,PT,0.333333333,2.95,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,74,,,74,,N,,N,,,,,,,Y,N.BSN.NURS
+57213,25,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2015SS,,FT,,2,,2,PT,0.222222222,,3.681,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,35,35,,,,N,GR,N,,,,,,,,A.MS.ITM
+57215,42,F,FL,White,,,,U,W,,,,,,C,2016B32,,,,,G,,,GR,,2015B22,,,,3,,3,PT,0.333333333,,3.811,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,27,27,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57227,23,M,,Non-resident Alien,Y,,IN,NHS,A,Other,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.929,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,22,22,,,,N,GR,N,,,,,,,,A.MS.ITC
+57236,24,M,,Non-resident Alien,Y,,IN,,,,,,,,R,2016S2R,,,,,G,,,GR,,2015SS,,FT,,1,,1,PT,0.111111111,,3.837,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,27,27,,,,N,GR,N,,,,,,,,A.MS.ITC
+57237,22,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2015SS,,FT,,2,,2,PT,0.222222222,,3.691,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,32,32,,,,N,GR,N,,,,,,,,A.MS.ITC
+57239,22,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.671,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,22,22,,,,N,GR,N,,,,,,,,A.MS.ITC
+57240,23,M,,Non-resident Alien,Y,,CH,NHS,A,None,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,6,,6,PT,0.666666667,,3.027,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,25,25,,,,N,GR,N,,,,,,,,A.MS.IEF
+57250,29,F,,Non-resident Alien,Y,,IN,,A,Hinduism,,,SD,NONE,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,2,,2,PT,0.222222222,,3.97,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,32,32,,,,N,GR,N,,,,,,,,A.MS.ITC
+57268,23,M,MD,Black or African American,,,,,B,None,,,,,R,2016S2R,,,,,U,,,SR,,2015FA,,TR,7,,,7,PT,0.583333333,2.142,,,0,,,A.BA.COMM,,,R,,,,,COMM,,,,,,,,,,CAS,120,,,120,,N,,Y,NMSO,,,,,,Y,A.BA.COMM
+57269,25,F,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,3,,,3,PT,0.25,2.621,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,182,,,182,,N,ACN,N,,,,,,,N,N.BSN.NURS
+57274,24,F,IN,Black or African American,,,,NHS,B,,,,,,C,2016S2R,,,,,U,,,JR,,2015FA,,TR,7,,,7,PT,0.583333333,3,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,87,,,87,,N,,N,,,,,,,Y,N.BSN.NURS
+57276,23,F,IN,Two or More Races,,,,NHS,W*A,Non-Denomination Christian,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.838,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,24,24,,,,N,GR,N,,,,,,,,A.MA.CMHC
+57287,23,M,,Non-resident Alien,Y,,IN,NHS,A,,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,2,,2,PT,0.222222222,,3.819,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,26,26,,,,N,GR,N,,,,,,,,A.MS.ITC
+57288,23,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.676,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,22,22,,,,N,GR,N,,,,,,,,A.MS.ITC
+57290,26,F,,Non-resident Alien,Y,,IN,,,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,,,2,,2,PT,0.222222222,,4,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,23,23,,,,N,GR,N,,,,,,,,A.MS.ITC
+57291,19,F,MI,White,,,,NHS,W,Non-Denomination Christian,,,,,R,2016S2R,,,,,U,,,SO,,2015SS,,FT,5,,,5,PT,0.416666667,3.353,,,0,,,A.BS.EXPL,,,R,,,,,EXPL,,,,,,,,,,CAS,51,,,51,,N,,Y,NWBB,,,,,,N,A.BS.EXPL
+57294,22,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2015SS,,FT,,3,,3,PT,0.333333333,,3.163,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,27,27,,,,N,GR,N,,,,,,,,A.MS.ITC
+57295,22,F,,Non-resident Alien,Y,,IN,,,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,,,2,,2,PT,0.222222222,,3.813,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,24,24,,,,N,GR,N,,,,,,,,A.MS.ITC
+57299,36,M,NY,White,,,,NHS,W,,,,,,C,2016B32,,,,,G,,,GR,,2015B22,,FT,,6,,6,PT,0.666666667,,3.838,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,24,24,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57300,27,M,OR,Hispanic or Latino,,,,HIS,W,,,,,,C,2016B32,,,,,G,,,GR,,2015B22,,FT,,3,,3,PT,0.333333333,,3.686,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,21,21,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57321,23,M,,Non-resident Alien,Y,,IN,,,,,,,,R,2016S2R,,,,,G,,,GR,,2015SS,,FT,,3,,3,PT,0.333333333,,3.95,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,31,31,,,,N,GR,N,,,,,,,,A.MS.ITC
+57322,25,F,,Non-resident Alien,Y,,IN,NHS,A,Islam (Muslim),,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,4,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,22,22,,,,N,GR,N,,,,,,,,A.MS.CYB
+57329,22,F,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.85,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,19,19,,,,N,GR,N,,,,,,,,A.MS.ITC
+57331,22,F,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.875,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,25,25,,,,N,GR,N,,,,,,,,A.MS.ITC
+57336,22,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,5,,5,PT,0.555555556,,3.7,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,21,21,,,,N,GR,N,,,,,,,,A.MS.ITM
+57337,22,M,,Non-resident Alien,Y,,IN,,,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,,,2,,2,PT,0.222222222,,3.848,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,24,24,,,,N,GR,N,,,,,,,,A.MS.ITM
+57342,57,F,TX,Black or African American,,,,U,B,,,,,,C,2016B32,,,,,G,,,GR,,2015B31,,,,3,,3,PT,0.333333333,,3.671,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,21,21,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57343,34,M,,Non-resident Alien,Y,,CH,,A,Other,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.945,,,0,,A.MS.SA,,,R,,,,,SA,,,,,,,,,,CAS,33,33,,,,N,GR,Y,NWBB,,,,,,,A.MS.SA
+57362,22,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,5,,5,PT,0.555555556,,3.68,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,21,21,,,,N,GR,N,,,,,,,,A.MS.ITC
+57363,23,M,IL,White,,,,NHS,W,Non-Denomination Christian,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.814,,,0,,A.MS.SM,,,R,,,,,SM,,,,,,,,,,CAS,21,21,,,,N,GR,N,,,,,,,,A.MS.SM
+57365,21,M,,Non-resident Alien,Y,,JA,NHS,A,None,,,,,R,2016S2R,,,,,U,,,SR,,2015FA,,TR,3,,,3,PT,0.25,3.751,,,0,,,B.BSBA.MGT,,,R,,,,,MGT,,,,,,,,,,CBA,139,,,139,,N,,N,,,,,,,N,B.BSBA.MKT
+57368,21,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.557,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,22,22,,,,N,GR,N,,,,,,,,A.MS.ITC
+57369,25,F,,Non-resident Alien,Y,,IN,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,2,,2,PT,0.222222222,,3.965,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,26,26,,,,N,GR,N,,,,,,,,A.MS.ITC
+57370,46,F,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,JR,,2015FA,,TR,3,,,3,PT,0.25,3.211,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,73,,,73,,N,,N,,,,,,,Y,N.BSN.NURS
+57372,26,M,,Non-resident Alien,Y,,IN,NHS,A,,,,,,C,2016S2R,,,,,G,,,GR,,2015FB1,,FT,,6,,6,PT,0.666666667,,3.5,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,30,30,,,,N,GR,N,,,,,,,,B.MBA.BUS
+57383,19,F,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,U,,,SO,,2015FA,,FT,3,,,3,PT,0.25,3.191,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,36,,,36,,N,,N,,,,,,,N,N.BSN.NURS
+57385,34,M,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,G,,,GR,,2015S1R,,PT,,3,,3,PT,0.333333333,,3.771,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,21,21,,,,N,GR,N,,,,,,,,B.MBA.BUS
+57386,54,F,IN,White,,,,NHS,W,Roman Catholic,M,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,4,,,0,,A.MA.CMHC,,,R,,,,,CMHC,,,,,,,,,,CAS,18,18,,,,N,GR,N,,,,,,,,A.MA.CMHC
+57389,25,M,,Non-resident Alien,Y,,IN,NHS,A,,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,5,,5,PT,0.555555556,,3.93,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,21,21,,,,N,GR,N,,,,,,,,A.MS.ITC
+57397,21,M,MN,Black or African American,,,,NHS,B,Christian Reformed,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,TR,7,,,7,PT,0.583333333,2.56,,,0,,,B.BSBA.MGT,,,R,,,,,MGT,,,,,,,,,,CBA,86,,,86,,N,,Y,NMSO,,,,,,N,B.BSBA.MGT
+57398,23,M,,Non-resident Alien,Y,,IN,NHS,,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.79,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,22,22,,,,N,GR,N,,,,,,,,A.MS.ITC
+57399,22,F,,Non-resident Alien,Y,,IN,NHS,A,,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,5,,5,PT,0.555555556,,3.922,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,23,23,,,,N,GR,N,,,,,,,,A.MS.ITC
+57402,29,F,GA,White,,,,NHS,W,Lutheran - ELCA,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,PT,,3,,3,PT,0.333333333,,4,,,0,,A.MHA.HADM,,,R,,,,,HADM,,,,,,,,,,CON,4,4,,,,N,HDP,N,,,,,,,,A.MHA.HADM
+57403,30,F,IL,Non-resident Alien,Y,,IN,,,,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,PT,,3,,3,PT,0.333333333,,4,,,0,,A.MHA.HADM,,,R,,,,,HADM,,,,,,,,,,CON,29,29,,,,N,GR,N,,,,,,,,A.MHA.HADM
+57805,21,F,,Non-resident Alien,Y,Student Visa,BK,NHS,W,Orthodox,,,,,C,2016S2R,,,,,U,,,SO,,2016SS,,TR,3,,,3,PT,0.25,3,,,0,,,A.BA.ECON,,,R,,,,,ECON,,,,,,,,,,CAS,28,,,28,,N,,N,,,,,,,N,
+57404,24,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,2,,2,PT,0.222222222,,3.955,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,29,29,,,,N,GR,N,,,,,,,,A.MS.ITC
+57408,43,F,AZ,White,,,,NHS,W,,,,,,C,2016B32,,,,,G,,,GR,,2015B31,,FT,,3,,3,PT,0.333333333,,3.957,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,21,21,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57410,33,M,IN,Non-resident Alien,Y,,NI,,,,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,0,,0,PT,0,,3.795,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,23,23,,,,N,GR,N,,,,,,,,A.MS.ITM
+57413,26,M,,Non-resident Alien,Y,,NI,NHS,B,Other Christian,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.738,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,22,22,,,,N,GR,N,,,,,,,,A.MS.ITC
+57414,24,F,OR,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2015FB1,,FT,,6,,6,PT,0.666666667,,3.93,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,30,30,,,,N,GR,N,,,,,,,,B.MBA.BUS
+57415,24,F,MI,White,,,,NHS,W,Prefer not to answer,,,,,C,2016S2R,,,,,U,,,SR,,2015SS,,TR,8,,,8,PT,0.666666667,3.643,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,185,,,185,,N,ACN,N,,,,,,,N,N.BSN.NURS
+57806,41,M,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2016S1R,,PT,,3,,3,PT,0.333333333,,4,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,3,3,,,,N,GR,N,,,,,,,,
+57418,19,F,IL,White,,,,NHS,W,Lutheran - Others/Unknown,,,,,R,2016S2R,,,,,U,,,SO,,2015SS,,FT,6,,,6,PT,0.5,3.027,,,0,,,A.BA.EXPL,,,R,,,,,EXPL,,,,,,,,,,CAS,41,,,41,,N,,Y,NWBB,,,,,,N,A.BA.EXPL
+57420,30,F,IN,White,,,,NHS,W,None,,,,,C,2016S2R,,,,,U,,,JR,,2015FA,,TR,4,,,4,PT,0.333333333,3.059,,,0,,,A.BA.GEO,,,R,,,,,GEO,,,,,AMIN,,,,,CAS,64,,,64,,N,,N,,,,,,,N,A.BS.ENSC
+57426,23,M,,Non-resident Alien,Y,,CH,NHS,A,None,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,3,3.718,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,32,29,,3,,N,GR,N,,,,,,,,A.MS.IEF
+57431,22,M,IN,Non-resident Alien,Y,,CH,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.329,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,25.5,25.5,,,,N,GR,N,,,,,,,,A.MS.ICP
+57432,22,M,,Non-resident Alien,Y,,CH,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.675,,,0,,A.MS.SA,,,R,,,,,SA,,,,,,,,,,CAS,27,27,,,,N,GR,N,,,,,,,,A.MS.SA
+57433,23,M,,Non-resident Alien,Y,,SA,NHS,,Islam (Muslim),,,,,C,2016S2R,,,,,U,,,JR,,2015FA,,TR,3,,,3,PT,0.25,2.13,,,0,,,B.BSBA.FIN,,,R,,,,,FIN,,,,,,,,,,CBA,75,,,75,,N,,N,,,,,,,N,B.BSBA.FIN
+57437,25,M,FL,White,,,,NHS,W,,,,,,C,2016B32,,,,,G,,,GR,,2015B31,,FT,,6,,6,PT,0.666666667,,3.675,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,24,24,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57439,49,F,GA,,,,,U,U,,,,,,C,2016B32,,,,,G,,,GR,,2015B31,,FT,,3,,3,PT,0.333333333,,3.925,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,24,24,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57440,28,M,GA,Black or African American,,,,NHS,B,,,,,,C,2016B32,,,,,G,,,GR,,2015B31,,FT,,3,,3,PT,0.333333333,,3.95,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,18,18,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57441,43,F,IL,White,,,,NHS,W,,,,,,C,2016B32,,,,,G,,,GR,,2015B31,,FT,,3,,3,PT,0.333333333,,3.35,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,18,18,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57443,24,F,IN,Non-resident Alien,Y,,CH,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,2.914,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,25.5,25.5,,,,N,GR,N,,,,,,,,A.MS.ICP
+57445,21,F,,Non-resident Alien,Y,,CH,NHS,A,,,,,,R,2016S2R,,,,,U,,,SR,,2015FA,,TR,3,,,3,PT,0.25,2.919,,,0,,,B.BSBA.ACC,,,R,,,,,ACC,,,,,,,,,,CBA,89,,,89,,N,,N,,,,,,,Y,B.BSBA.ACC
+57464,22,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,8,,8,PT,0.888888889,,3.622,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,9,9,,,,N,GR,N,,,,,,,,
+57467,49,F,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,SR,,2015FA,,TR,3,,,3,PT,0.25,3.167,,,0,,,N.BSN.RNSPEC,,,R,,,,,NURS,,,,,,,,,,CON,112,,,112,,N,,N,,,,,,,Y,N.BSN.RNSPEC
+57468,25,M,,Non-resident Alien,Y,,CH,NHS,A,None,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,4,3.724,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,34,25,,9,,N,GR,N,,,,,,,,A.MS.IEF*DEFAULT.UNDERGRAD
+57470,33,F,,Non-resident Alien,Y,,CH,NHS,A,None,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,4,3.688,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,27.5,18.5,,9,,N,GR,N,,,,,,,,A.MS.IEF*DEFAULT.UNDERGRAD
+57471,21,F,IN,Hispanic or Latino,,,,HIS,,Methodist,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,TR,7,,,7,PT,0.583333333,3.131,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,62,,,62,,N,,N,,,,,,,N,N.BSN.NURS
+57472,23,F,,Non-resident Alien,Y,,CH,NHS,A,,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,4,3.393,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,31,28,,3,,N,GR,N,,,,,,,,A.MS.IEF*DEFAULT.UNDERGRAD
+57473,24,F,,Non-resident Alien,Y,,CH,NHS,A,None,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,3,3.3,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,34,31,,3,,N,GR,N,,,,,,,,A.MS.IEF*DEFAULT.UNDERGRAD
+57478,25,M,,Non-resident Alien,Y,,CH,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,4,3.963,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,34,31,,3,,N,GR,N,,,,,,,,A.MS.IEF*DEFAULT.UNDERGRAD
+57479,24,M,,Non-resident Alien,Y,,CH,NHS,A,Unknown,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,3.436,3.7,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,34,9,,25,,N,GR,N,,,,,,,,A.MS.IEF*DEFAULT.UNDERGRAD
+57480,23,F,MO,Black or African American,,,,NHS,B,,,,,,,2016S2L,,,,,L,,,L1,,2015FL,,FT,,,5,5,PT,0.416666667,,,2.55,,,0,L.JD.LAW,,,R,,,,,LAW,,,,,,,,,,SL,30,,30,,,N,,N,,,,,,,,L.JD.LAW
+57490,21,F,OH,Black or African American,,,,NHS,B,,,,AST*SD,NONE*NONE,R,2016S2R,,,,,U,,,SR,,2015SS,,TR,6,,,6,PT,0.5,2.554,,,0,,,A.BS.IND,,,R,,,,,IND,,,,,,,,,,CAS,99,,,99,,N,,Y,NWBB,,,,,,N,A.BSPE.PEXS
+57491,23,M,,Non-resident Alien,Y,,CH,NHS,A,None,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,3.604,3.3,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,34,9,,25,,N,GR,N,,,,,,,,A.MS.IEF*DEFAULT.UNDERGRAD
+57492,25,M,,Non-resident Alien,Y,,CH,NHS,A,None,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,,3.689,,,0,,A.MHA.HADM,,,R,,,,,HADM,,,,,,,,,,CON,24,24,,,,N,GR,N,,,,,,,,A.MHA.HADM
+57493,29,M,IN,Unreported,,,,,,Non-Denomination Christian,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,2,,2,PT,0.222222222,,4,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,23,23,,,,N,GR,N,,,,,A,V,,A.MS.ITC
+57499,34,F,IN,Black or African American,,,,NHS,B,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,SR,,2015FA,,TR,3,,,3,PT,0.25,2.93,,,0,,,N.BSN.RNSPEC,,,R,,,,,NURS,,,,,,,,,,CON,121,,,121,,N,,N,,,,,,,Y,N.BSN.RNSPEC
+57507,23,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,3,,3,PT,0.333333333,4,3.953,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,21,19,,2,,N,GR,N,,,,,,,,A.MS.CYB*DEFAULT.UNDERGRAD
+57508,24,F,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,4,,4,PT,0.444444444,,3.656,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,18,18,,,,N,GR,N,,,,,,,,A.MS.CYB
+57510,23,F,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2015FB1,,FT,,6,,6,PT,0.666666667,,3.34,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,30,30,,,,N,GR,N,,,,,,,,B.MBA.BUS
+57517,23,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2015FA,,FT,,5,,5,PT,0.555555556,,4,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,23,23,,,,N,GR,N,,,,,,,,A.MS.ITC
+57807,23,M,,Non-resident Alien,Y,Student Visa,CH,,,,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,6,,6,PT,0.666666667,,4,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,3,3,,,,N,GR,N,,,,,,,,
+57532,25,M,,Non-resident Alien,Y,,CH,NHS,A,,,,,,,2016S2L,,,,,L,,,L1,,2015FL,,FT,,,5,5,PT,0.416666667,,,3.02,,,0,L.JD.LAW,,,R,,,,,LAW,,,,,,,,,,SL,30,,30,,,N,,N,,,,,,,,L.JD.LAW
+57538,20,F,MO,White,,,,NHS,W,Methodist,,,,,R,2016S2R,,,,,U,,,JR,,2015FA,,TR,6,,,6,PT,0.5,3.396,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,63,,,63,,N,,N,,,,,,,N,N.BSN.NURS
+57540,22,M,,Non-resident Alien,Y,,BR,NHS,W,Other Christian,,,,,R,2016S2R,,,,,U,,,SR,,2015FA,,TR,3,,,3,PT,0.25,3.714,,,0,,,B.BSBA.MKT,,,R,,,,,MKT,,,,,,,,,,CBA,124.5,,,124.5,,N,,N,,,,,,,N,B.BSBA.MKT
+57542,31,M,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,G,,,GR,,2015FB1,,PT,,3,,3,PT,0.333333333,,3.8,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,15,15,,,,N,GR,N,,,,,,,,B.MBA.BUS
+57546,27,F,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2015FB1,,PT,,3,,3,PT,0.333333333,,3.68,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,15,15,,,,N,GR,N,,,,,,,,B.MBA.BUS
+57551,25,M,IL,Unreported,,,,,,,,,,,C,2016B32,,,,,G,,,GR,,2015B32,,,,3,,3,PT,0.333333333,,4,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,18,18,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57563,42,F,GA,White,,,,NHS,W,,,,,,C,2016B32,,,,,G,,,GR,,2015B32,,,,3,,3,PT,0.333333333,,3.733,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,18,18,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57565,25,F,RI,Unreported,,,,,,,,,,,O,2016B32,,,,,G,,,GR,,2015B32,,,,3,,3,PT,0.333333333,,3.755,,,0,,A.MS.HCA,,,R,,,,,HCA,,,,,,,,,,CAS,33,33,,,,N,BSK,N,,,,,,,,A.MS.HMP*A.MS.HCA
+57575,32,M,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,G,,,GR,,2015FB1,,PT,,3,,3,PT,0.333333333,,3.8,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,15,15,,,,N,GR,N,,,,,,,,B.MBA.BUS
+57578,26,M,IL,White,,,,NHS,W,,,,,,,2016S2L,,,,,L,,,L1,,2015FL,,FT,,,5,5,PT,0.416666667,,,1.977,,,0,L.JD.LAW,,,R,,,,,LAW,,,,,,,,,,SL,27,,27,,,N,,N,,,,,A,V,,L.JD.LAW
+57584,32,F,IN,White,,,,NHS,W,Nazarene,M,,,,C,2016S2R,,,,,G,,,GR,,2015FB1,,FT,,6,,6,PT,0.666666667,,3.69,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,30,30,,,,N,GR,N,,,,,,,,B.MBA.BUS
+57597,26,F,OH,Black or African American,,,,NHS,B,,,,,,,2016S2L,,,,,L,,,L1,,2015FL,,FT,,,5,5,PT,0.416666667,,,2.52,,,0,L.JD.LAW,,,R,,,,,LAW,,,,,,,,,,SL,28,,28,,,N,,N,,,,,,,,L.JD.LAW
+57598,25,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.933,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,9,9,,,,N,GR,N,,,,,,,,
+57604,51,M,IN,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,G,,,GR,,2015FB2,,PT,,6,,6,PT,0.666666667,,4,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,18,18,,,,N,GR,N,,,,,,,,
+57605,30,F,,Non-resident Alien,Y,,IN,,,Hinduism,M,,,,C,2016S2R,,,,,G,,,GR,,2015FB1,,FT,,6,,6,PT,0.666666667,,3.76,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,30,30,,,,N,GR,N,,,,,,,,B.MBA.BUS
+57607,27,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,1,,1,PT,0.111111111,,4,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,18,18,,,,N,GR,N,,,,,,,,
+57610,25,M,MN,White,,,,NHS,W,,,,,,,2016S2L,,,,,L,,,L1,,2015FL,,FT,,,5,5,PT,0.416666667,,,2.483,,,0,L.JD.LAW,,,R,,,,,LAW,,,,,,,,,,SL,30,,30,,,N,,N,,,,,,,,L.JD.LAW
+57611,22,F,,Non-resident Alien,Y,,IN,NHS,,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.475,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57623,20,M,PA,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SO,,2015FA,,TR,4,,,4,PT,0.333333333,3.185,,,0,,,A.BA.SOCC,,,R,,,,,SOCC,,,,,,,,,,CAS,55,,,55,,N,,Y,NMBA,,,,,,N,A.BS.CS
+57626,21,M,IN,White,,,,NHS,W,None,,,,,C,2016S2R,,,,,U,,,JR,,2016SP,,TR,7,,,7,PT,0.583333333,3.717,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,79,,,79,,N,,N,,,,,,,Y,
+57627,25,F,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,G,,,GR,,2015FA,,FT,,1,,1,PT,0.111111111,,4,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,13,13,,,,N,GR,N,,,,,,,,A.MS.ITC
+57810,28,M,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,G,,,GR,,2016S1R,,PT,,3,,3,PT,0.333333333,,4,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,3,3,,,,N,GR,N,,,,,,,,
+57629,23,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.91,,,0,,A.MS.CYB,,,R,,,,,CYB,,,,,,,,,,CAS,10,10,,,,N,GR,N,,,,,,,,
+57631,51,F,WI,Unreported,,,,,,,,,,,O,2016B32,,,,,G,,,GR,,2015B11,,,,3,,3,PT,0.333333333,,3.925,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,12,12,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57632,46,M,IN,Unreported,,,,,,,,,,,O,2016B32,,,,,G,,,GR,,2015B11,,,,3,,3,PT,0.333333333,,0,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,0,0,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57634,26,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.758,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,13,13,,,,N,GR,N,,,,,,,,
+57812,28,F,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,2.5,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,90,,,90,,N,ACN,N,,,,,,,Y,
+57641,22,M,,Non-resident Alien,Y,,IN,NHS,A,,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.767,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57813,25,F,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,2.85,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,151,,,151,,N,ACN,N,,,,,,,N,
+57646,39,F,PA,White,,,,U,W,,,,,,O,2016B32,,,,,G,,,GR,,2015B11,,,,3,,3,PT,0.333333333,,4,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,3,3,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57943,18,F,IN,White,,,,NHS,W,Unknown,,,,,R,2016S2R,,,,,U,,,FR,,2016SS,,FT,6,,,6,PT,0.5,0,,,0,,,A.BA.COMM,,,R,,,,,COMM,,,,,,,,,,CAS,0,,,0,,N,,Y,NWBB,,,,,,N,
+57652,27,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,1,,1,PT,0.111111111,,4,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,18,18,,,,N,GR,N,,,,,,,,
+57654,37,F,IN,White,,,,NHS,W,Other Christian,,,,,C,2016S2R,,,,,U,,,SR,,2016SP,,TR,7,,,7,PT,0.583333333,3.26,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,139,,,139,,N,,N,,,,,,,Y,
+57656,25,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,4,,4,PT,0.444444444,,3.556,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,9,9,,,,N,GR,N,,,,,,,,
+57657,30,F,CO,Non-resident Alien,Y,,LY,,,Islam (Muslim),,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,2.925,,,0,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57658,22,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,5,,5,PT,0.555555556,,3.622,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,9,9,,,,N,GR,N,,,,,,,,
+57665,37,F,DE,Black or African American,,,,NHS,B,,,,,,O,2016B32,,,,,G,,,GR,,2015B11,,,,3,,3,PT,0.333333333,,3.6,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,15,15,,,,N,BSK,N,,,,,,,,A.MS.HMP
+57667,27,F,IN,Asian,,,,NHS,A,Hinduism,,,,,C,2016S2R,,,,,U,,,SR,,2015FA,,TR,7,,,7,PT,0.583333333,3.115,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,97,,,97,,N,,N,,,,,,,N,N.BSN.NURS
+57815,40,F,IN,White,,,,,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,152,,,152,,N,ACN,N,,,,,,,N,
+57816,23,F,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,2.85,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,156,,,156,,N,ACN,N,,,,,,,N,
+57673,21,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.825,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57674,21,M,,Non-resident Alien,Y,,IN,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,PT,,3,,3,PT,0.333333333,,3.642,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57817,25,F,MI,White,,,,NHS,W,Other,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,2.7,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,196,,,196,,N,ACN,N,,,,,,,N,
+57818,23,F,IN,Hispanic or Latino,,,,HIS,B,Roman Catholic,,,,,C,2016S2R,,,,,U,,,JR,,2016SS,,TR,7,,,7,PT,0.583333333,2.15,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,86,,,86,,N,ACN,N,,,,,,,Y,
+57676,21,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.744,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,9,9,,,,N,GR,N,,,,,,,,
+57678,22,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.833,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57679,22,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,7,,7,PT,0.777777778,,2.9,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,9.5,9.5,,,,N,GR,N,,,,,,,,
+57819,24,F,MI,White,,,,NHS,W,Christian Reformed,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.2,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,163,,,163,,N,ACN,N,,,,,,,N,
+57820,22,M,MI,White,,,,NHS,W,Christian Reformed,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.3,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,98,,,98,,N,ACN,N,,,,,,,N,
+57685,22,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.883,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57687,22,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.689,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,9,9,,,,N,GR,N,,,,,,,,
+57690,24,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.875,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57691,22,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,4,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,9,9,,,,N,GR,N,,,,,,,,
+57693,33,F,WA,White,,,,NHS,W,,,,,,O,2016B32,,,,,G,,,GR,,2015B12,,,,3,,3,PT,0.333333333,,3.7,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,3,3,,,,N,BSK,N,,,,,,,,
+57697,24,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,4,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57944,18,F,IN,Black or African American,,,,NHS,B,Baptist,,,,,R,2016S2R,2016S2R,,,,U,U,,FR,FR,2016SS,2016SS,FT,6,,,6,,,0,,,0,,,N.BSN.NURS,,,R,R,,,,NURS,,,,,,,,,,CON,0,,,0,,N,,Y,NWBB,,,,,,N,
+57700,23,M,,Non-resident Alien,Y,,IN,NHS,A,,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,2,,2,PT,0.222222222,,3.556,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,9,9,,,,N,GR,N,,,,,,,,
+57821,24,M,OH,Non-resident Alien,Y,,PK,NHS,,Islam (Muslim),,,,,R,2016S2R,,,,,G,,,GR,,2016SS,,FT,,3,,3,PT,0.333333333,,0,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,0,0,,,,N,GR,N,,,,,,,,
+57703,47,F,IN,Black or African American,,,,NHS,B,,,,,,O,2016B32,,,,,G,,,GR,,2015B12,,,,3,,3,PT,0.333333333,,3.5,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,12,12,,,,N,BSK,N,,,,,,,,
+57945,18,F,IL,White,,,,NHS,W,Non-Denomination Christian,,,,,R,2016S2R,,,,,U,,,FR,,2016SS,,FT,6,,,6,PT,0.5,0,,,0,,,A.BSPE.PEXS,,,R,,,,,PEXS,,,,,BIO,,,,,CAS,0,,,0,,N,,Y,NWBB,,,,,,N,
+57704,29,F,IN,White,,,,NHS,W,None,,,,,C,2016S2R,,,,,G,,,GR,,2016SB1,,PT,,6,,6,PT,0.666666667,,3.5,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,12,12,,,,N,GR,N,,,,,,,,
+57707,23,M,IN,White,,,,NHS,W,None,,,,,C,2016S2R,,,,,G,,,GR,,2016SB1,,PT,,3,,3,PT,0.333333333,,3.667,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,9,9,,,,N,GR,N,,,,,,,,
+57710,33,F,IN,White,,,,NHS,W,,,,,,O,2016B32,,,,,G,,,GR,,2015B12,,,,3,,3,PT,0.333333333,,3.575,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,12,12,,,,N,BSK,N,,,,,,,,
+57712,22,F,,Non-resident Alien,Y,,IN,NHS,A,Other,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,1,,1,PT,0.111111111,,3.475,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57823,21,F,MI,White,,,,NHS,W,Lutheran - Mission for Christ,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.15,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,133,,,133,,N,ACN,N,,,,,,,N,
+57713,22,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.95,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57714,24,F,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,4,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,9,9,,,,N,GR,N,,,,,,,,
+57718,23,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.833,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57721,25,F,VA,White,,,,NHS,W,,,,,,O,2016B32,,,,,G,,,GR,,2015B12,,,,6,,6,PT,0.666666667,,3.657,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,21,21,,,,N,BSK,N,,,,,,,,
+57722,42,M,TX,White,,,,NHS,W,,,,,,O,2016B32,,,,,G,,,GR,,2015B12,,,,3,,3,PT,0.333333333,,4,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,6,6,,,,N,BSK,N,,,,,,,,
+57824,24,F,MI,White,,,,NHS,W,Other,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.35,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,125,,,125,,N,ACN,N,,,,,,,N,
+57725,25,F,IN,Non-resident Alien,Y,,IN,,,Orthodox,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.533,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,10,10,,,,N,GR,N,,,,,,,,
+57946,18,F,OH,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,2016S2R,,,,U,U,,FR,FR,2016SS,2016SS,FT,6,,,6,,,0,,,0,,,E.U.ENGR,,,R,R,,,,ENGR,,,,,,,,,,COE,4,,,4,,N,,Y,NWBB,,,,,,N,
+57727,21,F,WV,Non-resident Alien,Y,,CF,NHS,B,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2016SP,,TR,7,,,7,PT,0.583333333,3.416,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,95,,,95,,N,,N,,,,,,,N,
+57731,25,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,1,,1,PT,0.111111111,,3.7,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,18,18,,,,N,GR,N,,,,,,,,
+57732,22,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.907,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,15,15,,,,N,GR,N,,,,,,,,
+57733,23,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.783,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57734,22,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.94,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,10,10,,,,N,GR,N,,,,,,,,
+57736,55,F,NJ,Black or African American,,,,NHS,B,,,,,,O,2016B32,,,,,G,,,GR,,2015B12,,,,3,,3,PT,0.333333333,,3.35,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,12,12,,,,N,BSK,N,,,,,,,,
+57738,22,M,,Non-resident Alien,Y,,IN,NHS,A,Hinduism,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,4,,4,PT,0.444444444,,3.875,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57739,33,M,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.883,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57825,22,F,IL,Hispanic or Latino,,,,HIS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,JR,,2016SS,,TR,7,,,7,PT,0.583333333,2.15,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,77,,,77,,N,ACN,N,,,,,,,Y,
+57741,22,M,,Non-resident Alien,Y,,IN,NHS,A,Unknown,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.95,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57744,22,F,,Non-resident Alien,Y,,IN,,A,Hinduism,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.54,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,15,15,,,,N,GR,N,,,,,,,,
+57826,24,F,MI,White,,,,NHS,W,Other,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,2.5,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,132,,,132,,N,ACN,N,,,,,,,N,
+57827,21,F,MI,White,,,,NHS,W,Non-Denomination Christian,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.7,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,142,,,142,,N,ACN,N,,,,,,,N,
+57748,29,F,,Non-resident Alien,Y,,IN,,,,,,,,C,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.936,,,0,,A.MHA.HADM,,,R,,,,,HADM,,,,,,,,,,CON,20,20,,,,N,GR,N,,,,,,,,
+57749,21,F,,Non-resident Alien,Y,,IN,,A,,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,3.642,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57750,21,F,IN,Asian,,,VM,NHS,A,Unknown,,,,,C,2016S2R,,,,,U,,,JR,,2016SP,,TR,3,,,3,PT,0.25,3.229,,,0,,,A.BS.BCHEM,,,R,,,,,BCHE,,,,,,,,,,CAS,71,,,71,,N,,N,,,,,,,N,
+57830,24,F,IL,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.5,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,148,,,148,,N,ACN,N,,,,,,,N,
+57831,25,M,IN,White,,,,NHS,W,Evangelical,,,,,C,2016S2R,,,,,G,,,GR,,2016SB2,,PT,,3,,3,PT,0.333333333,,4,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,6,6,,,,N,GR,N,,,,,,,,
+57753,22,M,,Non-resident Alien,Y,,IN,NHS,A,,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,4,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,9,9,,,,N,GR,N,,,,,,,,
+57947,28,M,IL,White,,,,NHS,W,Christian Reformed,,,,,R,2016S2R,,,,,G,,,GR,,2016SS,,FT,,3,,3,PT,0.333333333,,0,,,0,,A.MA.AE,,,R,,,,,AE,,,,,,,,,,CAS,0,0,,,,N,GR,N,,,,,,,,
+57832,24,F,MI,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.3,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,160,,,160,,N,ACN,N,,,,,,,Y,
+57833,35,F,IN,Asian,,Permanent Resident,RP,NHS,A,Roman Catholic,,,,,R,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,2.35,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,212,,,212,,N,ACN,N,,,,,,,N,
+57760,32,M,IN,White,,,,NHS,W,Orthodox,,,,,C,2016S2R,,,,,G,,,GR,,2016SB1,,PT,,3,,3,PT,0.333333333,,3.567,,,0,,B.MBA.BUS,,,R,,,,,BUS,,,,,,,,,,CBA,9,9,,,,N,GR,N,,,,,,,,
+57834,33,F,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,2.5,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,127,,,127,,N,ACN,N,,,,,,,Y,
+57835,23,F,IN,White,,,,NHS,W,None,,,,,C,2016S2R,,,,,U,,,JR,,2016SS,,TR,7,,,7,PT,0.583333333,2.7,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,62.7,,,62.7,,N,,N,,,,,,,Y,
+57762,34,F,TX,Black or African American,,,,NHS,B,,,,,,O,2016B32,,,,,G,,,GR,,2016B21,,,,3,,3,PT,0.333333333,,3.9,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,9,9,,,,N,BSK,N,,,,,,,,
+57836,23,F,MI,White,,,,NHS,W,Christian Reformed,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,126,,,126,,N,ACN,N,,,,,,,N,
+57837,23,F,IN,White,,,,NHS,W,Protestant - Unspecified,S,,,,C,2016S2R,,,,,G,,,GR,,2016SS,,,3,,,3,PT,0.25,3.7,0,,0,,,A.MS.IEF,,,R,,,,,IEF,,,,,,,,,,CAS,130.5,0,,130.5,,N,GR,N,,,,,,,N,
+57838,21,F,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,U,,,JR,,2016SS,,TR,7,,,7,PT,0.583333333,3.15,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,80,,,80,,N,ACN,N,,,,,,,N,
+57768,41,F,IN,Unreported,,,,,,,,,,,,2016S2R,,,,,U,,,JR,,2016SP,,,1,,,1,PT,0.083333333,3.15,,,0,,,A.BSED.ED,,,R,,,,,ELED,,,,,HIST,,,,,CAS,64,,,64,,N,CA,N,,,,,,,,
+57839,23,F,MI,White,,,,NHS,W,Methodist,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.15,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,136,,,136,,N,ACN,N,,,,,,,N,
+57840,20,F,IL,White,,,,NHS,W,Roman Catholic,,,,,R,2016S2R,,,,,U,,,JR,,2016SS,,TR,7,,,7,PT,0.583333333,2.5,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,56,,,56,,N,ACN,N,,,,,,,Y,
+57778,23,F,IN,White,,,,NHS,W,,,,,,R,2016S2R,,,,,G,,,GR,,2016SP,,FT,,3,,3,PT,0.333333333,,4,,,0,,A.MS.DM,,,R,,,,,DM,,,,,,,,,,CAS,12,12,,,,N,GR,N,,,,,,,,
+57841,34,M,MI,White,,,,NHS,W,,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,2.5,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,171.5,,,171.5,,N,ACN,N,,,,,,,N,
+57842,40,M,IN,,,,,U,U,,,,,,O,2016B32,,,,,G,,,GR,,2016B22,,,,3,,3,PT,0.333333333,,3.35,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,6,6,,,,N,BSK,N,,,,,,,,
+57843,24,M,IL,Black or African American,,,,NHS,B,Baptist,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,2.5,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,147,,,147,,N,ACN,N,,,,,,,Y,
+57844,23,M,PA,White,,,,,W,,,,,,,2016S2R,,,,,G,,,GR,,2016SS,,,,9,,9,FT,1,,4,,,0,,A.MED.ILS,,,R,,,,,ILS,,,,,,,,,,CAS,4,4,,,,N,WWF,N,,,,,,,,
+57846,25,F,MI,White,,,,NHS,W,Lutheran - Others/Unknown,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,2.8,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,152,,,152,,N,ACN,N,,,,,,,Y,
+57850,26,F,IL,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,138,,,138,,N,ACN,N,,,,,,,Y,
+57851,29,F,OH,White,,,,U,W,,,,,,O,2016B32,,,,,G,,,GR,,2016B22,,,,6,,6,PT,0.666666667,,3.533,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,9,9,,,,N,BSK,N,,,,,,,,
+57854,24,F,IL,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.35,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,172,,,172,,N,ACN,N,,,,,,,N,
+57855,21,M,,Non-resident Alien,Y,,IN,,A,Other,,,,,C,2016S2R,,,,,G,,,GR,,2016SS,,FT,,3,,3,PT,0.333333333,0,4,,,0,,A.MS.CYB,,,R,,,,,CYB,,,,,,,,,,CAS,3,3,,0,,N,GR,N,,,,,,,,
+57856,24,M,IN,White,,,,NHS,W,Roman Catholic,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.2,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,141,,,141,,N,ACN,N,,,,,,,N,
+57857,25,F,IN,White,,,,NHS,W,Orthodox,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.3,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,141,,,141,,N,ACN,N,,,,,,,N,
+57859,55,F,FL,White,,,,NHS,W,,,,,,O,2016B32,,,,,G,,,GR,,2016B22,,,,3,,3,PT,0.333333333,,4,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,3,3,,,,N,BSK,N,,,,,,,,
+57860,41,F,SD,White,,,,U,W,,,,,,O,2016B32,,,,,G,,,GR,,2016B22,,,,3,,3,PT,0.333333333,,4,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,3,3,,,,N,BSK,N,,,,,,,,
+57861,27,M,IN,White,,,,,W,,,,,,C,2016S2R,,,,,G,,,GR,,2016SS,,PT,,3,,3,PT,0.333333333,,4,,,0,,A.MALS.HIST,,,R,,,,,HIST,,,,,,,,,,CAS,3,3,,,,N,GR,N,,,,,,,,
+57862,22,F,IN,White,,,,NHS,W,,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,165,,,165,,N,ACN,N,,,,,,,N,
+57863,43,M,NJ,White,,,,U,W,,,,,,O,2016B32,,,,,G,,,GR,,2016B22,,,,3,,3,PT,0.333333333,,3.65,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,6,6,,,,N,BSK,N,,,,,,,,
+57864,18,M,IL,Black or African American,,,,NHS,B,Non-Denomination Christian,,,,,R,2016S2R,2016S2R,,,,U,U,,FR,FR,2016SS,2016SS,FT,6,,,6,,,1.85,,,0,,,B.U.UND,,,R,R,,,,BUND,,,,,,,,,,CBA,6,,,6,,N,,Y,NMBB,,,,,,N,
+57867,25,M,IN,Non-resident Alien,Y,,BG,,A,Islam (Muslim),,,,,C,2016S2R,,,,,G,,,GR,,2016SS,,FT,,3,,3,PT,0.333333333,,0,,,0,,A.MS.ITM,,,R,,,,,ITM,,,,,,,,,,CAS,0,0,,,,N,GR,N,,,,,,,,
+57870,35,F,,Non-resident Alien,Y,,NI,,,,,,,,R,2016S2R,,,,,G,,,GR,,2016SS,,FT,,3,,3,PT,0.333333333,,3.5,,,0,,A.MS.ICP,,,R,,,,,ICP,,,,,,,,,,CAS,6,6,,,,N,GR,N,,,,,,,,
+57873,24,F,MI,White,,,,NHS,W,Lutheran - ELCA,,,ALLM,NONE,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,2.85,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,152,,,152,,N,ACN,N,,,,,,,N,
+57874,24,F,IN,Unreported,,,,,,,,,,,,2016S2R,,,,,G,,,GR,,2016SS,,,,9,,9,FT,1,,4,,,0,,A.MED.ILS,,,R,,,,,ILS,,,,,,,,,,CAS,4,4,,,,N,WWF,N,,,,,,,,
+57875,34,F,IL,Unreported,,,,,,,,,,,,2016S2R,,,,,G,,,GR,,2016SS,,,,9,,9,FT,1,,4,,,0,,A.MED.ILS,,,R,,,,,ILS,,,,,,,,,,CAS,4,4,,,,N,WWF,N,,,,,,,,
+57876,38,M,IN,Unreported,,,,,,,,,,,,2016S2R,,,,,G,,,GR,,2016SS,,,,9,,9,FT,1,,4,,,0,,A.MED.ILS,,,R,,,,,ILS,,,,,,,,,,CAS,4,4,,,,N,WWF,N,,,,,,,,
+57877,49,M,IN,Unreported,,,,,,,,,,,,2016S2R,,,,,G,,,GR,,2016SS,,,,9,,9,FT,1,,3.85,,,0,,A.MED.ILS,,,R,,,,,ILS,,,,,,,,,,CAS,4,4,,,,N,WWF,N,,,,,,,,
+57878,32,F,IL,Unreported,,,,,,,,,,,,2016S2R,,,,,G,,,GR,,2016SS,,,,9,,9,FT,1,,3.85,,,0,,A.MED.ILS,,,R,,,,,ILS,,,,,,,,,,CAS,4,4,,,,N,WWF,N,,,,,,,,
+57879,22,M,IL,Hispanic or Latino,,,,HIS,,,,,,,,2016S2R,,,,,G,,,GR,,2016SS,,,,9,,9,FT,1,,3.85,,,0,,A.MED.ILS,,,R,,,,,ILS,,,,,,,,,,CAS,4,4,,,,N,WWF,N,,,,,,,,
+57881,27,F,MI,White,,,,NHS,W,Christian Reformed,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,3.15,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,142,,,142,,N,ACN,N,,,,,,,N,
+57882,33,F,MI,White,,,,NHS,W,Methodist,,,,,C,2016S2R,,,,,U,,,SR,,2016SS,,TR,7,,,7,PT,0.583333333,2.85,,,0,,,N.BSN.NURS,,,R,,,,,NURS,,,,,,,,,,CON,140,,,140,,N,ACN,N,,,,,,,Y,
+57948,45,F,IL,White,,,,NHS,W,,,,,,O,2016B32,,,,,G,,,GR,,2016B31,,,,3,,3,PT,0.333333333,,0,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,0,0,,,,N,BSK,N,,,,,,,,
+57885,31,F,IL,White,,,,NHS,W,,,,,,O,2016B32,,,,,G,,,GR,,2016B31,,,,3,,3,PT,0.333333333,,4,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,3,3,,,,N,BSK,N,,,,,,,,
+57891,30,M,FL,Non-resident Alien,Y,,NI,,,,,,,,R,2016S2R,,,,,G,,,GR,,2016SS,,FT,,3,,3,PT,0.333333333,,0,,,0,,A.MS.ITC,,,R,,,,,ITC,,,,,,,,,,CAS,0,0,,,,N,GR,N,,,,,,,,
+57949,62,F,NY,White,,,,NHS,W,,,,,,O,2016B32,,,,,G,,,GR,,2016B32,,,,3,,3,PT,0.333333333,,0,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,0,0,,,,N,BSK,N,,,,,,,,
+57950,18,M,IN,White,,,,NHS,W,Other Christian,,,,,R,2016S2R,,,,,U,,,FR,,2016SS,,FT,3,,,3,PT,0.25,0,,,0,,,E.U.ENGR,,,R,,,,,ENGR,,,,,,,,,,COE,0,,,0,,N,,N,,,,,,,N,
+57951,19,M,NJ,Black or African American,,,,NHS,B,African Methodist Episcopal,,,,,R,2016S2R,,,,,U,,,FR,,2016SS,,TR,6,,,6,PT,0.5,0,,,0,,,A.BA.SOCY,,,R,,,,,SOCY,,,,,,,,,,CAS,20,,,20,,N,,N,,,,,,,N,
+57952,19,M,MI,Black or African American,,,,NHS,B,Other Christian,,,,,R,2016S2R,,,,,U,,,FR,,2016SS,,TR,6,,,6,PT,0.5,0,,,0,,,B.BSBA.IB,,,R,,,,,IB,,,,,,,,,,CBA,0,,,0,,N,,N,,,,,,,N,
+57953,19,M,IN,Unreported,,,,,,,,,,,,2016S2R,,,,,U,,,SP,,2016SS,,VI,4,,,4,PT,0.333333333,0,,,0,,,A.U.VISIT,,,R,,,,,ND,,,,,,,,,,CAS,0,,,0,,N,,N,,,,,,,,
+57954,50,F,IL,White,,,,NHS,W,,,,,,O,2016B32,,,,,G,,,GR,,2016B32,,PT,,3,,3,PT,0.333333333,,0,,,0,,A.MS.HMP,,,R,,,,,BHMP,,,,,,,,,,CAS,0,0,,,,N,BSK,N,,,,,,,,
+57955,,M,FL,Unreported,,,,,,,,,,,,2016S2R,,,,,U,,,SP,,2016SS,,VI,4,,,4,PT,0.333333333,0,,,0,,,A.U.VISIT,,,R,,,,,ND,,,,,,,,,,CAS,0,,,0,,N,,N,,,,,,,,
+57956,,M,FL,Unreported,,,,,,,,,,,,2016S2R,,,,,U,,,SP,,2016SS,,VI,4,,,4,PT,0.333333333,0,,,0,,,A.U.VISIT,,,R,,,,,ND,,,,,,,,,,CAS,0,,,0,,N,,N,,,,,,,,
+57957,,M,CT,Unreported,,,,,,,,,,,,2016S2R,,,,,U,,,SP,,2016SS,,,4,,,4,PT,0.333333333,0,,,0,,,A.U.VISIT,,,R,,,,,ND,,,,,,,,,,CAS,0,,,0,,N,,N,,,,,,,,
+57958,,M,CT,Unreported,,,,,,,,,,,,2016S2R,,,,,U,,,SP,,2016SS,,,4,,,4,PT,0.333333333,0,,,0,,,A.U.VISIT,,,R,,,,,ND,,,,,,,,,,CAS,0,,,0,,N,,N,,,,,,,,
