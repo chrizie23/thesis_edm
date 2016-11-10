@@ -69,13 +69,13 @@ for (dataname in testlist){
 
 #Extract the columns that don't change between semesters from the first Census file. This will
 # allow us to pre-populate the end data-frame with the columns we want.
-Race1<-datalist[[1]]$`Reported Race/Ethnicity`[which(datalist[[1]]$'DUMMY ID'==intersect(allIDs,datalist[[1]]$'DUMMY ID'))]
-Gender1<-datalist[[1]]$Gender[which(datalist[[1]]$'DUMMY ID'==intersect(allIDs,datalist[[1]]$'DUMMY ID'))]
-Denomination1<-datalist[[1]]$Denomination[which(datalist[[1]]$'DUMMY ID'==intersect(allIDs,datalist[[1]]$'DUMMY ID'))]
-Citizenship1<-datalist[[1]]$Citizenship[which(datalist[[1]]$'DUMMY ID'==intersect(allIDs,datalist[[1]]$'DUMMY ID'))]
+Race1<-datalist[[1]]$Reported.Race.Ethnicity[which(datalist[[1]]$DUMMY.ID==intersect(allIDs,datalist[[1]]$DUMMY.ID))]
+Gender1<-datalist[[1]]$Gender[which(datalist[[1]]$DUMMY.ID==intersect(allIDs,datalist[[1]]$DUMMY.ID))]
+Denomination1<-datalist[[1]]$Denomination[which(datalist[[1]]$DUMMY.ID==intersect(allIDs,datalist[[1]]$DUMMY.ID))]
+Citizenship1<-datalist[[1]]$Citizenship[which(datalist[[1]]$DUMMY.ID==intersect(allIDs,datalist[[1]]$DUMMY.ID))]
 
 #Create an initial data-frame with just the first census file's data.
-IDData<-data.frame(ID=intersect(allIDs,datalist[[1]]$'DUMMY ID'), Race=Race1, Gender=Gender1, Denomination=Denomination1, Citizenship=Citizenship1)
+IDData<-data.frame(ID=intersect(allIDs,datalist[[1]]$DUMMY.ID), Race=Race1, Gender=Gender1, Denomination=Denomination1, Citizenship=Citizenship1)
 
 testlist<-list(S210,SP11)
 #------------------------------------------------
